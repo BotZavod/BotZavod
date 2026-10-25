@@ -11,8 +11,8 @@
 <a href="#русская-версия">Русский</a> ·
 <a href="#english-version">English</a> ·
 <a href="https://github.com/BotZavod/gameplay-discord">🎮 GAME PLAY</a> ·
+<a href="CUSTOM-DEVELOPMENT.md">⚙️ Разработка на заказ</a> ·
 <a href="CATALOG.md">📦 Каталог ботов</a> ·
-<a href="#services">Услуги</a> ·
 <a href="#portfolio">Портфолио</a> ·
 <a href="https://funpay.com/users/14765417/">📩 Заказать бота</a>
 
@@ -20,15 +20,13 @@
 
 ---
 
-<a id="game-play"></a>
-
 ## 🎮 GAME PLAY | Флагманский проект
 
 **Реальный игровой Discord-проект с собственным ботом, интерактивными панелями и комплексной системой управления сообществом.**
 
 GAME PLAY объединяет игроков **Dota 2, Counter-Strike 2, Rust и PUBG**.
 
-Проект демонстрирует возможности BOT ZAVOD: от продуманного пользовательского интерфейса до интеграции игровых профилей, экономики, мини-игр, Steam-подтверждения и административных инструментов.
+Проект демонстрирует подход BOT ZAVOD к созданию комплексных Discord-систем: игровые профили, прогресс, экономика, мини-игры, Steam-подтверждение, поддержка участников и административные инструменты.
 
 ### 📸 Реальные интерфейсы GAME PLAY
 
@@ -49,7 +47,7 @@ GAME PLAY объединяет игроков **Dota 2, Counter-Strike 2, Rust �
 
 <br>
 
-**[🎮 О проекте](https://github.com/BotZavod/gameplay-discord)** ·
+**[🎮 Открыть проект](https://github.com/BotZavod/gameplay-discord)** ·
 **[📸 Все интерфейсы](https://github.com/BotZavod/gameplay-discord/blob/main/docs/FEATURES.md)** ·
 **[🗺️ Roadmap](https://github.com/BotZavod/gameplay-discord/blob/main/docs/ROADMAP.md)**
 
@@ -63,24 +61,24 @@ GAME PLAY объединяет игроков **Dota 2, Counter-Strike 2, Rust �
 
 ## 🛠️ Услуги и готовые решения
 
-Два направления BOT ZAVOD: **разработка Discord-ботов под индивидуальные задачи** и **готовые продукты для быстрого запуска**.
+**BOT ZAVOD предлагает два основных направления:** индивидуальную разработку Discord-ботов и готовые продукты для быстрого запуска.
 
 | ⚙️ Индивидуальная разработка | 📦 Готовые Discord-боты |
 |:---|:---|
-| Разработка по техническому заданию | Готовый функционал для Discord-серверов |
+| Разработка по техническому заданию | Готовые решения для Discord-серверов |
 | Уникальные интерактивные панели | Защита и модерация |
 | Экономика, профили, кланы и рейтинги | Тикеты, роли и автоматизация |
 | Интеграции и пользовательские сценарии | Игровые и развлекательные системы |
-| Комплексные решения для сообществ | Музыка и голосовые возможности |
-| **[📩 Обсудить проект](https://funpay.com/users/14765417/)** | **[📦 Открыть каталог ботов](CATALOG.md)** |
+| Комплексные системы управления | Музыка и голосовые возможности |
+| **[⚙️ Подробнее о разработке](CUSTOM-DEVELOPMENT.md)** | **[📦 Открыть каталог ботов](CATALOG.md)** |
 
-**Индивидуальная разработка:** стоимость, сроки и состав функций определяются после обсуждения задачи.
+**Индивидуальная разработка:** функциональность, стоимость и сроки определяются после обсуждения требований.
 
-**Готовые решения:** описание продуктов, возможности и особенности запуска представлены в отдельном каталоге.
+**Готовые решения:** комплектация и особенности запуска описаны в каталоге.
 
 <div align="center">
 
-**[📦 КАТАЛОГ ГОТОВЫХ БОТОВ](CATALOG.md)** · **[🛒 ПРЕДЛОЖЕНИЯ НА FUNPAY](https://funpay.com/users/14765417/)**
+**[⚙️ РАЗРАБОТКА НА ЗАКАЗ](CUSTOM-DEVELOPMENT.md)** · **[📦 КАТАЛОГ БОТОВ](CATALOG.md)**
 
 </div>
 
@@ -92,11 +90,11 @@ GAME PLAY объединяет игроков **Dota 2, Counter-Strike 2, Rust �
 
 ### 👨‍💻 О BOT ZAVOD
 
-**BOT ZAVOD** занимается разработкой Discord-ботов, интерактивных интерфейсов и инструментов автоматизации на Python.
+**BOT ZAVOD** занимается разработкой Discord-ботов, интерактивных интерфейсов и систем автоматизации на Python.
 
-Создаю решения разного масштаба: от отдельных систем модерации и поддержки до комплексных игровых экосистем с собственными профилями, экономикой и административными панелями.
+Создаю решения разного масштаба: от отдельных инструментов модерации и поддержки до комплексных игровых экосистем с профилями, экономикой и административными панелями.
 
-Основное внимание уделяю удобству использования, согласованному дизайну, контролю доступа, работе с данными и дальнейшему развитию проекта.
+Основное внимание уделяю удобству использования, согласованному дизайну, контролю доступа, сохранности данных и возможности дальнейшего развития проекта.
 
 ### ⚙️ Что можно разработать
 
@@ -110,26 +108,26 @@ GAME PLAY объединяет игроков **Dota 2, Counter-Strike 2, Rust �
 | Модерация | Управление участниками, защита и журналы событий |
 | Поддержка | Тикеты, заявки и обращения |
 | Автоматизация | Уведомления, роли и пользовательские сценарии |
-| Комплексные решения | Объединение различных функций в единую систему |
+| Комплексные проекты | Объединение различных функций в единую систему |
+
+**[⚙️ Подробно об индивидуальной разработке](CUSTOM-DEVELOPMENT.md)**
 
 ### 🎯 Принципы разработки
 
-- **Индивидуальный подход.** Функциональность определяется реальными задачами сервера.
+- **Индивидуальный подход.** Функциональность определяется задачами конкретного сервера.
 - **Интерактивность.** Удобные кнопки, меню и панели вместо сложной навигации по командам.
-- **Визуальная целостность.** Согласованный стиль сообщений, интерфейсов и элементов управления.
-- **Разграничение доступа.** Проверка прав пользователей и административных действий.
+- **Единый дизайн.** Согласованный стиль сообщений, интерфейсов и элементов управления.
+- **Контроль доступа.** Проверка прав пользователей и административных действий.
 - **Сохранность данных.** Внимание к существующим настройкам, профилям и прогрессу.
-- **Развитие проекта.** Возможность добавлять функции без полной замены существующей системы.
+- **Развитие проекта.** Возможность расширять функциональность существующей системы.
 
 ### 📦 Готовые Discord-боты
 
-В каталоге BOT ZAVOD представлены решения для разных типов Discord-сообществ.
-
-**Основные продукты:**
+В каталоге BOT ZAVOD представлены готовые решения для различных типов Discord-сообществ.
 
 | Продукт | Назначение |
 |:---|:---|
-| BASIC | Базовая защита, модерация, логи и автороль |
+| BASIC | Защита, модерация, логи и автороль |
 | COMFORT | Управление сервером и система тикетов |
 | ALL-IN-ONE | Администрирование и игровые функции |
 | PREMIUM MUSIC | Музыка, радио и голосовые возможности |
@@ -138,7 +136,7 @@ GAME PLAY объединяет игроков **Dota 2, Counter-Strike 2, Rust �
 
 Точная комплектация и условия приобретения зависят от выбранного продукта.
 
-**[📦 Посмотреть полный каталог](CATALOG.md)** · **[🛒 Перейти на FunPay](https://funpay.com/users/14765417/)**
+**[📦 Полный каталог готовых ботов](CATALOG.md)** · **[🛒 Предложения на FunPay](https://funpay.com/users/14765417/)**
 
 ---
 
@@ -150,19 +148,19 @@ GAME PLAY объединяет игроков **Dota 2, Counter-Strike 2, Rust �
 
 **BOT ZAVOD** develops custom Discord bots, interactive interfaces, and automation systems using Python.
 
-Projects range from focused moderation and support tools to integrated gaming ecosystems featuring player profiles, virtual economies, and administrative interfaces.
+Projects range from focused moderation and support tools to integrated gaming ecosystems with player profiles, virtual economies, and administrative interfaces.
 
-The development approach emphasizes usability, consistent design, access control, reliable data handling, and long-term maintainability.
+The development approach emphasizes usability, consistent design, access control, careful data handling, and long-term maintainability.
 
 ### 🎮 Featured Project: GAME PLAY
 
-**GAME PLAY** is a gaming Discord community with custom-built interactive systems.
+**GAME PLAY** is a gaming Discord community featuring custom-built interactive systems.
 
-Its features include player profiles, progression, virtual economy, mini-games, clans, Steam verification, and administrative tools.
+Its functionality includes player profiles, progression, a virtual economy, mini-games, clans, Steam verification, and administrative tools.
 
 The community focuses on **Dota 2, Counter-Strike 2, Rust, and PUBG**.
 
-Real screenshots are available at the top of this page.
+Real screenshots are displayed at the top of this page.
 
 **[🎮 Project Overview](https://github.com/BotZavod/gameplay-discord)** ·
 **[📸 Features & Screenshots](https://github.com/BotZavod/gameplay-discord/blob/main/docs/FEATURES.md)** ·
@@ -182,11 +180,13 @@ Real screenshots are available at the top of this page.
 | Automation | Roles, notifications, custom workflows |
 | Integrated solutions | Multiple systems within a unified Discord bot |
 
+**[⚙️ Explore Custom Development](CUSTOM-DEVELOPMENT.md)** · **[📩 Discuss a Project](https://funpay.com/users/14765417/)**
+
 ### 🎯 Development Principles
 
 - **Tailored functionality:** solutions designed around project requirements.
 - **User-friendly interfaces:** interactive components and clear navigation.
-- **Consistent visual design:** cohesive menus, messages, and management panels.
+- **Consistent design:** cohesive menus, messages, and management panels.
 - **Access control:** appropriate permission checks for sensitive operations.
 - **Data continuity:** attention to existing profiles, settings, and progress.
 - **Extensibility:** systems designed to accommodate future improvements.
@@ -229,13 +229,15 @@ A custom gaming Discord ecosystem combining player progression, virtual economy,
 
 Individual Discord bot development for gaming communities, moderation, automation, interactive interfaces, and integrated server management.
 
-**[📩 Discuss a Custom Project](https://funpay.com/users/14765417/)**
+**[⚙️ Explore Custom Development](CUSTOM-DEVELOPMENT.md)** ·
+**[📩 Discuss a Project on FunPay](https://funpay.com/users/14765417/)**
 
 ### 📦 Ready-to-Use Solutions
 
 Prebuilt Discord bots for community management, support, moderation, music, and entertainment.
 
-**[📦 Explore Bot Catalog](CATALOG.md)** · **[🛒 Buy on FunPay](https://funpay.com/users/14765417/)**
+**[📦 Explore Bot Catalog](CATALOG.md)** ·
+**[🛒 Buy on FunPay](https://funpay.com/users/14765417/)**
 
 Additional public case studies will be added as they become available.
 
@@ -253,9 +255,9 @@ Additional public case studies will be added as they become available.
 
 <br>
 
-**[🛒 FunPay](https://funpay.com/users/14765417/)** ·
+**[⚙️ Custom Development](CUSTOM-DEVELOPMENT.md)** ·
 **[📦 Bot Catalog](CATALOG.md)** ·
-**[🎮 GAME PLAY](https://github.com/BotZavod/gameplay-discord)** ·
+**[🛒 FunPay](https://funpay.com/users/14765417/)** ·
 **[💬 Discord](https://discord.gg/5ENDb7e4vj)**
 
 <br>

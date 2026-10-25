@@ -9,11 +9,12 @@
 
 <p>Custom Bots · Interactive Systems · Gaming Communities</p>
 
-<a href="#русская-версия">Русский</a> •
-<a href="#english-version">English</a> •
-<a href="#game-play">GAME PLAY</a> •
-<a href="#portfolio">Portfolio</a> •
-<a href="#contacts">Contacts</a>
+<a href="#русская-версия">🇷🇺 Русский</a> •
+<a href="#english-version">🇬🇧 English</a> •
+<a href="https://github.com/BotZavod/gameplay-discord">🎮 GAME PLAY</a> •
+<a href="https://github.com/BotZavod/gameplay-discord/blob/main/docs/FEATURES.md">📸 Демонстрация</a> •
+<a href="#portfolio">💼 Портфолио</a> •
+<a href="https://funpay.com/users/14765417/">📩 Заказать бота</a>
 
 </div>
 

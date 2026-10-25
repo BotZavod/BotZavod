@@ -1,92 +1,149 @@
-<img src="bot-zavod-banner.png" width="100%" alt="BOT ZAVOD Banner">
 
 <div align="center">
 
-# 🤖 BOT ZAVOD
+<img src="./bot-zavod-banner.png" width="100%" alt="BOT ZAVOD — Discord Bot Development">
 
-### Discord Bot Development • Python • Automation
+<br>
 
-**Custom Discord Bots | Interactive Systems | Gaming Communities**
+<strong>Discord Bot Development • Python • Automation</strong>
 
-Разработка Discord-ботов и комплексных систем для игровых сообществ.
+<p>Custom Bots · Interactive Systems · Gaming Communities</p>
 
-🇷🇺 Русский | 🇬🇧 English
+<a href="#русская-версия">Русский</a> •
+<a href="#english-version">English</a> •
+<a href="#game-play">GAME PLAY</a> •
+<a href="#portfolio">Portfolio</a> •
+<a href="#contacts">Contacts</a>
 
 </div>
 
 ---
 
-## 👨‍💻 About / Обо мне
+<a id="русская-версия"></a>
 
-**EN:** I develop custom Discord bots, interactive interfaces, automation systems, and solutions for gaming communities.
+## Русская версия
 
-**RU:** Разрабатываю Discord-ботов под индивидуальные задачи, интерактивные панели, системы автоматизации и комплексные решения для Discord-серверов.
+### Разработка Discord-ботов
 
-My focus is on functionality, usability, and maintainable architecture.
+Разрабатываю Discord-ботов под индивидуальные задачи: от автоматизации отдельных процессов до комплексных систем управления игровыми сообществами.
 
----
+Основное внимание уделяю удобству пользователей, продуманным интерфейсам, надёжному хранению данных и возможности дальнейшего развития проекта.
 
-## ⚙️ Discord Bot Development
+| Направление | Возможности |
+|:---|:---|
+| Индивидуальные боты | Разработка под задачи конкретного сервера |
+| Интерактивные интерфейсы | Кнопки, меню, панели управления |
+| Экономика | Балансы, награды, магазины, прогресс |
+| Управление сервером | Модерация, роли, журналы событий |
+| Автоматизация | Тикеты, заявки, уведомления |
+| Игровые системы | Профили, кланы, рейтинги |
+| Комплексные решения | Объединение функций в единую систему |
 
-- Custom Discord bots / Индивидуальная разработка
-- Interactive panels, buttons and menus
-- Moderation and server management
-- Economy, profiles and progression systems
-- Tickets, roles and automation
-- Database integration and persistent data
-- Discord server configuration
+**Готовые решения и индивидуальная разработка:**
 
-Каждый проект разрабатывается с учётом задач и особенностей конкретного сообщества.
-
----
-
-## 🎮 Featured Project: GAME PLAY
-
-**GAME PLAY** is my gaming community project focused on:
-
-`Dota 2` • `Counter-Strike 2` • `Rust` • `PUBG`
-
-The project brings together a custom Discord bot, interactive interfaces, player profiles, an internal economy, progression, and community management tools.
-
-**GAME PLAY** — авторский проект игрового Discord-сообщества с собственной экосистемой.
-
-Возможности проекта включают:
-
-- 👤 Профили игроков и систему прогресса
-- 💰 Внутреннюю экономику и награды
-- 🏆 Кланы, рейтинги и игровые активности
-- 🛠️ Интерактивные панели управления
-- 🎫 Поддержку участников и администрирование
-- 🎮 Интеграцию игровых возможностей
-
-**[🎮 Join GAME PLAY](https://discord.gg/JP8GMRbnUZ)**
+[Посмотреть предложения на FunPay](https://funpay.com/users/14765417/)
 
 ---
 
-## 🛠️ Technologies
+<a id="game-play"></a>
 
-**Language:** Python
+## GAME PLAY
 
-**Platform:** Discord API
+**Авторский проект игрового Discord-сообщества.**
 
-**Development:** Discord bots, interactive UI, databases, automation, modular systems
+GAME PLAY объединяет игроков Dota 2, Counter-Strike 2, Rust и PUBG.
+
+В основе проекта — собственный Discord-бот с интерактивными интерфейсами и единой игровой экосистемой.
+
+### Основные направления
+
+- Профили игроков, уровни и система прогресса
+- Внутренняя экономика и игровые награды
+- Кланы, рейтинги и игровые активности
+- Интерактивные панели управления
+- Поддержка участников и администрирование
+- Интеграция Steam
+
+Проект развивается и проходит последовательное тестирование.
+
+**[Присоединиться к GAME PLAY](https://discord.gg/JP8GMRbnUZ)**
 
 ---
 
-## 📬 Contact
+<a id="english-version"></a>
 
-Interested in a custom Discord bot or server solution?
+## English Version
 
-Открыт к обсуждению индивидуальных проектов и разработке Discord-ботов.
+### Custom Discord Bot Development
 
-**GitHub:** [BotZavod](https://github.com/BotZavod)
+I develop custom Discord bots and integrated systems for gaming communities, server management, and automation.
+
+My focus is on intuitive interfaces, reliable data handling, maintainable architecture, and solutions tailored to each project's requirements.
+
+| Area | Solutions |
+|:---|:---|
+| Custom bots | Tailored Discord bot development |
+| Interactive UI | Buttons, menus, management panels |
+| Economy | Balances, rewards, shops, progression |
+| Server management | Moderation, roles, event logs |
+| Automation | Tickets, applications, notifications |
+| Gaming systems | Profiles, clans, leaderboards |
+| Integrated solutions | Multiple features in one system |
+
+**Featured project:** GAME PLAY, a gaming community platform with custom Discord systems, player progression, and an internal economy.
+
+[Explore development services](https://funpay.com/users/14765417/)
 
 ---
+
+## Technologies
 
 <div align="center">
 
-**BOT ZAVOD**
+**Python · Discord API · Databases · Interactive UI · Automation**
 
-*Discord Development • Gaming Systems • Automation*
+</div>
+
+Development focuses on modular systems, persistent data, user-friendly interfaces, and maintainable project architecture.
+
+---
+
+<a id="portfolio"></a>
+
+## Portfolio
+
+### BOT ZAVOD
+
+Custom Discord bots, ready-to-use solutions, and server automation.
+
+**GAME PLAY** serves as a flagship example of designing a connected gaming community ecosystem.
+
+Detailed case studies, demonstrations, and technical articles will be published as projects are prepared for public presentation.
+
+[GitHub Profile](https://github.com/BotZavod)
+
+---
+
+<a id="contacts"></a>
+
+## Contacts
+
+<div align="center">
+
+**Have a Discord bot idea or need a custom solution?**
+
+**Есть идея Discord-бота или нужна индивидуальная разработка?**
+
+<br>
+
+[GitHub](https://github.com/BotZavod) •
+[FunPay](https://funpay.com/users/14765417/) •
+[Discord](https://discord.gg/5ENDb7e4vj)
+
+<br>
+
+---
+
+<sub>BOT ZAVOD · Discord Development · Gaming Systems · Automation</sub>
 
 </div>

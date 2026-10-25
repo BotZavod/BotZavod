@@ -1,3 +1,4 @@
+<img src="bot-zavod-banner.png" width="100%" alt="BOT ZAVOD Banner">
 
 <div align="center">
 

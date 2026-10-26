@@ -1,24 +1,18 @@
 <div align="center">
 
-<h1>📩 BOT ZAVOD | Orders & Development Process</h1>
+# 📩 BOT ZAVOD | Orders & Development Process
 
-<img src="assets/banners/07_order-banner.png" width="100%" alt="BOT ZAVOD — Orders and Development">
+<img src="assets/banners/07_order-banner.png" width="100%" alt="BOT ZAVOD | Custom Discord Bot Orders">
 
-<br>
+**CUSTOM DEVELOPMENT · INTERACTIVE SYSTEMS · AUTOMATION**
 
-**READY BOTS · CUSTOM DEVELOPMENT · DISCORD AUTOMATION**
+### От вашей идеи до индивидуального Discord-бота
 
-### От первой идеи до готового Discord-решения
-
-*From your first idea to a completed Discord solution.*
-
-<br>
+*From Your Idea to a Custom Discord Solution*
 
 [🇷🇺 Русский](#русская-версия) · [🇬🇧 English](#english-version)
 
-<br>
-
-[🏠 Главная](README.md) · [⚙️ Возможности](CAPABILITIES.md) · [🧩 Модули](MODULES.md) · [📦 Каталог](CATALOG.md) · [💎 Разработка по ТЗ](CUSTOM-DEVELOPMENT.md) · [🎮 Портфолио](PORTFOLIO.md)
+[🏠 Главная](README.md) · [⚙️ Возможности](CAPABILITIES.md) · [🧩 Модули](MODULES.md) · [💎 Каталог услуг](CATALOG.md) · [👑 Разработка](CUSTOM-DEVELOPMENT.md) · [🎮 Портфолио](PORTFOLIO.md)
 
 </div>
 
@@ -30,150 +24,79 @@
 
 ## 🇷🇺 Как заказать Discord-бота
 
-### Выберите подходящий формат
+### Индивидуальная разработка под ваши задачи
 
 </div>
 
-**BOT ZAVOD** предлагает готовые Discord-боты, разработку отдельных мини-ботов и индивидуальные решения на Python.
+**BOT ZAVOD** разрабатывает Discord-ботов по индивидуальному техническому заданию.
 
-Для начала достаточно определить, что вам необходимо: существующий продукт, одна конкретная функция или полноценный проект по техническому заданию.
+Вы можете заказать небольшую автоматизацию, интерактивные панели или комплексную Discord-систему с собственными механиками и дизайном.
 
-<div align="center">
+**Каждый заказ обсуждается отдельно.** Функции, стоимость, сроки и состав поставки согласовываются до оплаты.
 
-| 📦 Готовый бот | 🧩 Мини-бот | 💎 Разработка по ТЗ |
-|:---:|:---:|:---:|
-| Существующий продукт | Отдельная функция | Индивидуальная система |
-| Определённая комплектация | Разработка под задачу | Собственная архитектура |
-| [Каталог](CATALOG.md) | [Модули](MODULES.md) | [Разработка](CUSTOM-DEVELOPMENT.md) |
-
-</div>
+Готовое техническое задание необязательно. Для начала достаточно описать идею.
 
 ---
 
 <div align="center">
 
-## 📦 01. Готовый Discord-бот
-
-### Выберите продукт и получите предусмотренные файлы
+## 🏗️ 01. Выберите направление разработки
 
 </div>
 
-**Подходит, если нужен существующий бот с заранее определённым набором функций.**
+### 🚀 STANDARD DEVELOPMENT
 
-В каталоге представлены:
+**Discord-бот для конкретных задач**
 
-- **BASIC:** защита, модерация, логи и автороль.
-- **COMFORT:** базовые функции и система тикетов.
-- **ALL-IN-ONE:** управление сервером, поддержка и развлечения.
-- **PREMIUM MUSIC:** музыка, радио и голосовые функции.
-- **NEXUS PREMIUM:** интерактивные панели и административное управление.
-- **Специализированные боты:** отдельные решения для конкретных задач.
+Подходит для небольших проектов и автоматизации отдельных процессов.
 
-### Как приобрести
+Примеры возможностей:
 
-1. Откройте каталог готовых ботов.
-2. Выберите подходящий продукт.
-3. Перейдите к актуальному предложению на FunPay.
-4. Ознакомьтесь с описанием, составом и требованиями.
-5. Оформите покупку через площадку.
-6. Получите файлы и инструкции, предусмотренные предложением.
-
-<div align="center">
-
-**[📦 Каталог готовых ботов](CATALOG.md) · [🛒 Магазин FunPay](https://funpay.com/users/14765417/)**
-
-</div>
-
-> Индивидуальные изменения, настройка сервера и хостинг не считаются включёнными автоматически, если это прямо не указано в конкретном предложении.
-
----
-
-<div align="center">
-
-## 🧩 02. Мини-бот или функциональный модуль
-
-### Одна задача. Конкретное решение.
-
-</div>
-
-**Подходит, если требуется определённая функция без разработки большой системы.**
-
-Примеры:
-
-- Приветствие новых участников.
+- Приветствие участников.
 - Автоматическая выдача ролей.
-- Подтверждение правил.
-- Система тикетов.
-- Приём заявок.
-- Розыгрыши и мероприятия.
-- Уровни и активность.
-- Виртуальная экономика.
-- Автоматические голосовые комнаты.
-- Интерактивные панели.
-- Автоматические уведомления.
+- Принятие правил.
+- Уведомления и объявления.
+- Базовая модерация.
+- Журналы действий.
+- Тикеты и заявки.
+- Кнопки, меню и интерактивные сообщения.
 
-### Как заказать
+**Основной принцип:** только необходимые функции, согласованные в ТЗ.
 
-1. Выберите функцию в каталоге модулей.
-2. Уточните, нужен самостоятельный бот или дополнение существующего.
-3. Опишите желаемое поведение.
-4. Укажите пожелания к оформлению.
-5. Согласуйте объём работ, стоимость и сроки.
-
-<div align="center">
-
-**[🧩 Посмотреть 30 направлений мини-ботов](MODULES.md)**
-
-</div>
-
-> Каталог модулей содержит возможные направления разработки. Не каждый модуль является готовым продуктом с автоматической выдачей.
+**[🚀 Обсудить небольшой проект](https://funpay.com/users/14765417/)**
 
 ---
 
-<div align="center">
+### 👑 PREMIUM DEVELOPMENT
 
-## 💎 03. Индивидуальная разработка по ТЗ
+**Индивидуальная Discord-система**
 
-### Discord-бот под ваши задачи
+Подходит для игровых сообществ и проектов с расширенной логикой, несколькими взаимосвязанными модулями и индивидуальным интерфейсом.
 
-</div>
+Примеры возможностей:
 
-**Подходит, если нужен уникальный бот, собственные механики или комплексная Discord-система.**
-
-Возможные направления:
-
-- Индивидуальные Discord-боты.
-- Интерактивные панели.
-- Пользовательские профили.
+- Единый визуальный стиль.
+- Интерактивная навигация.
+- Административный центр.
+- Профили участников.
+- Экономика и магазины.
 - Игровые механики.
-- Экономика и виртуальные магазины.
 - Кланы и рейтинги.
 - Поддержка и заявки.
-- Административные системы.
-- Автоматизация процессов.
+- Статистика и уведомления.
 - Интеграции с внешними сервисами.
-- Комплексные проекты с несколькими модулями.
 
-### Как заказать
+**Основной принцип:** индивидуальная архитектура, согласованный функционал и удобное управление.
 
-1. Расскажите, какую задачу должен решать бот.
-2. Перечислите желаемые функции.
-3. Покажите примеры, если они есть.
-4. Уточните особенности Discord-сервера.
-5. Обсудите архитектуру и технические ограничения.
-6. Согласуйте требования, сроки, стоимость и результат.
+**[👑 Обсудить комплексный проект](https://funpay.com/users/14765417/)**
 
-<div align="center">
-
-**[💎 Подробнее об индивидуальной разработке](CUSTOM-DEVELOPMENT.md)**
-
-</div>
+> STANDARD и PREMIUM обозначают характер и сложность разработки, а не фиксированные комплекты. Итоговый объём работ определяется техническим заданием.
 
 ---
 
 <div align="center">
 
-## 🧭 Этапы индивидуальной разработки
+## 🧭 02. Этапы разработки
 
 ### Семь шагов от идеи до результата
 
@@ -181,259 +104,275 @@
 
 | Этап | Что происходит |
 |:---|:---|
-| **01. Обсуждение** | Вы описываете идею и желаемый результат |
-| **02. Требования** | Уточняются функции, интерфейсы, права и интеграции |
-| **03. Оценка** | Согласовываются объём, стоимость и сроки |
-| **04. Разработка** | Реализуются согласованные возможности |
-| **05. Тестирование** | Проверяются функции и основные сценарии |
-| **06. Передача** | Предоставляются согласованные файлы и инструкции |
-| **07. Развитие** | При необходимости обсуждаются дополнительные работы |
+| **01. Обсуждение** | Вы рассказываете о задаче и желаемом результате |
+| **02. Требования** | Определяем функции, интерфейсы и особенности проекта |
+| **03. Согласование** | Утверждаем ТЗ, стоимость, сроки и состав поставки |
+| **04. Оформление заказа** | Покупатель оплачивает согласованный заказ через FunPay |
+| **05. Разработка** | Реализуем утверждённый функционал |
+| **06. Тестирование** | Проверяем согласованные сценарии работы |
+| **07. Передача** | Предоставляем результат и предусмотренные материалы |
 
-### 01 · Обсуждение
+### 01 · Обсуждение идеи
 
-Вы описываете идею, проблему или желаемый результат. Необязательно использовать технические термины или заранее составлять подробное ТЗ.
+Расскажите, для чего нужен бот и какие задачи он должен решать.
 
-**Например:**
+Можно описать идею обычными словами, без специальных технических терминов.
 
-> Нужен Discord-бот для игрового сообщества. Хочу профили игроков, внутреннюю валюту, магазин и удобную панель администрации.
+**Пример:**
+
+> Нужен Discord-бот для игрового сообщества. Хочу единую панель управления, профили участников, экономику и систему поддержки.
 
 ### 02 · Уточнение требований
 
-Определяем:
+Обсуждаем:
 
+- Назначение бота.
 - Основные функции.
 - Сценарии использования.
 - Роли и права доступа.
-- Интерфейсы.
-- Необходимые данные.
-- Внешние интеграции.
+- Интерактивные интерфейсы.
+- Хранение данных.
+- Необходимые интеграции.
 - Требования к запуску.
 - Дополнительные ограничения.
 
-### 03 · Оценка
+### 03 · Согласование проекта
 
-Обсуждаем техническую реализуемость, архитектурный подход, стоимость, сроки, этапы разработки, состав поставки и условия доработок.
+До оплаты определяем:
 
-**Работы начинаются после согласования существенных условий заказа.**
+- Техническое задание.
+- Состав функциональности.
+- Стоимость.
+- Сроки.
+- Этапы разработки при необходимости.
+- Состав передаваемых материалов.
+- Условия исправлений и дополнительных работ.
 
-### 04 · Разработка
+**Заказ оформляется после согласования существенных условий.**
 
-Реализуются согласованные функции и интерфейсы.
+### 04 · Оформление заказа
 
-Крупный проект может быть разделён на этапы с отдельными проверками результатов.
+После согласования проекта покупатель оплачивает соответствующее предложение через FunPay.
 
-### 05 · Тестирование
+Если оплата произведена без предварительного согласования, необходимо уточнить техническое задание и условия заказа в чате FunPay до начала разработки.
 
-В рамках согласованного объёма проверяются:
+### 05 · Разработка
+
+Создаём согласованные функции, интерфейсы и механики.
+
+Для крупных проектов могут быть предусмотрены промежуточные этапы проверки.
+
+Дополнительные функции, не включённые в утверждённое ТЗ, обсуждаются отдельно.
+
+### 06 · Тестирование
+
+В пределах согласованного объёма проверяются:
 
 - Основные функции.
 - Пользовательские сценарии.
-- Административные права.
-- Обработка типичных ошибок.
+- Административные разрешения.
 - Работа с данными.
 - Взаимодействие модулей.
+- Обработка типичных ошибок.
 
-### 06 · Передача
+### 07 · Передача проекта
 
-В зависимости от договорённости комплект может включать:
+В зависимости от договорённости предоставляются:
 
-- Файлы Discord-бота.
 - Исходный код.
+- Файлы проекта.
 - Список зависимостей.
-- Инструкцию по настройке.
-- Инструкцию по запуску.
-- Описание конфигурации.
+- Инструкция по установке.
+- Инструкция по запуску.
+- Описание настроек.
 - Дополнительные согласованные материалы.
 
-### 07 · Дополнительное развитие
-
-После завершения проекта можно отдельно обсудить новые функции, модули, интерфейсы, интеграции, оптимизацию и сопровождение.
+Дальнейшее развитие и сопровождение обсуждаются отдельно.
 
 ---
 
 <div align="center">
 
-## 📋 Что написать при обращении?
+## 📋 03. Что написать при обращении?
 
-### Удобный шаблон заявки
+### Удобный шаблон технического задания
 
 </div>
 
 **Название проекта:**  
 Название Discord-сервера или будущего бота.
 
-**Тип заказа:**  
-Готовый бот / мини-бот / индивидуальная разработка / доработка.
+**Назначение:**  
+Для чего нужен бот?
 
-**Задача:**  
-Для чего нужен бот и какую проблему он должен решать.
-
-**Функции:**  
-Перечень желаемых возможностей.
+**Необходимые функции:**  
+Какие задачи он должен выполнять?
 
 **Интерфейс:**  
-Нужны ли кнопки, меню, панели, формы и индивидуальное оформление.
+Нужны ли кнопки, меню, формы, панели и индивидуальный дизайн?
+
+**Участники и администрация:**  
+Кто будет пользоваться ботом и какие действия должны быть доступны разным ролям?
 
 **Интеграции:**  
-Telegram, сайт, API или другие сервисы, если требуются.
+Нужны ли Telegram, сайт, API или другие сервисы?
 
 **Существующий проект:**  
-Есть ли уже бот и его исходный код.
+Создаём нового бота или дорабатываем существующего?
 
 **Запуск:**  
-Windows, Linux, VPS или другая среда.
+Windows, Linux VPS или другая среда?
 
 **Примеры:**  
-Ссылки, изображения или описание похожих решений.
+Скриншоты, ссылки или описания понравившихся решений.
 
 **Дополнительные пожелания:**  
-Особенности, которые важно учесть.
+Всё, что важно учесть.
 
-> Необязательно заполнять все пункты. Недостающие детали можно уточнить при обсуждении.
+> Необязательно заполнять каждый пункт. Недостающие детали можно уточнить во время обсуждения.
 
 ---
 
 <div align="center">
 
-## 🎨 Дизайн и интерфейсы
+## 🎨 04. Дизайн и интерфейсы
 
-### Индивидуальное оформление Discord-систем
+### Удобство взаимодействия с ботом
 
 </div>
 
-По запросу проект может включать:
+По согласованию проект может включать:
 
-- Панели навигации.
 - Интерактивные кнопки.
 - Выпадающие меню.
-- Формы ввода.
+- Формы ввода данных.
+- Панели навигации.
 - Пользовательские профили.
 - Административные центры.
-- Системы подтверждения.
 - Информационные сообщения.
-- Индивидуальный визуальный стиль.
+- Подтверждения важных действий.
+- Единый визуальный стиль.
 
-Внешний вид согласуется с учётом технических возможностей Discord.
+Оформление создаётся с учётом поддерживаемых возможностей Discord.
 
-**Пример комплексного оформления:** [🎮 GAME PLAY](https://github.com/BotZavod/gameplay-discord).
+**Пример индивидуальной разработки: [🎮 GAME PLAY](https://github.com/BotZavod/gameplay-discord)**
 
 ---
 
 <div align="center">
 
-## 🖥️ Запуск и хостинг
+## 🖥️ 05. Запуск и хостинг
 
-### Где будет работать ваш бот?
+### Где будет работать Discord-бот?
 
 </div>
 
-Discord-боту необходима среда, в которой будет выполняться его программный код.
-
-| Вариант | Особенности |
+| Среда | Особенности |
 |:---|:---|
-| 💻 Локальный компьютер | Бот работает, пока запущена программа и доступно соединение |
-| ☁️ VPS / сервер | Подходит для длительной или круглосуточной работы |
-| ⚙️ Другая среда | Рассматривается с учётом требований и совместимости |
+| 💻 Windows | Бот работает при запущенной программе и доступном соединении |
+| ☁️ Linux VPS | Подходит для длительной и круглосуточной работы |
+| ⚙️ Другая инфраструктура | Возможность использования определяется совместимостью |
 
-**Хостинг, его аренда, настройка и дальнейшее обслуживание обсуждаются отдельно**, если не указано иное.
+**Хостинг, аренда VPS, установка и дальнейшее обслуживание не включаются автоматически.** Эти услуги согласовываются отдельно.
 
-Не передавайте токены Discord-ботов и другие секреты в публичных сообщениях или репозиториях. Для конфигурации используются предусмотренные проектом безопасные способы хранения.
+Для безопасности токен Discord-бота и другие секреты не следует публиковать в открытых репозиториях или сообщениях.
 
 ---
 
 <div align="center">
 
-## 🔧 Доработка существующего бота
+## 🔧 06. Доработка существующего бота
 
-### Не всегда нужно начинать с нуля
+### Развитие проекта без полной переработки
 
 </div>
 
-Если у вас уже есть Discord-бот, можно обсудить его развитие.
+Если у вас уже есть Discord-бот, можно обсудить:
 
-Возможные работы:
-
-- Добавление функций.
-- Создание новых панелей.
+- Добавление новых функций.
+- Создание интерактивных панелей.
+- Изменение существующих механик.
 - Исправление конкретных ошибок.
-- Изменение отдельных механик.
 - Подключение базы данных.
-- Интеграция внешних сервисов.
+- Интеграции с внешними сервисами.
 - Улучшение структуры проекта.
+- Подготовку к дальнейшему развитию.
 
-Перед согласованием работ необходимо ознакомиться с архитектурой, зависимостями и доступными исходными материалами.
+Перед согласованием работ необходимо оценить исходный код, зависимости, архитектуру и совместимость.
 
-**Возможность доработки определяется после технической оценки.**
+**Возможность сохранения существующих данных и функций определяется после технической проверки.**
 
 ---
 
 <div align="center">
 
-## 💬 Частые вопросы
+## 💬 07. Частые вопросы
 
 ### FAQ
 
 </div>
 
-**Можно ли заказать функцию, которой нет в каталоге?**
+**Обязательно ли иметь готовое ТЗ?**
 
-Да. Опишите задачу, и мы обсудим техническую возможность её реализации.
+Нет. Можно начать с описания идеи и сформировать требования во время обсуждения.
 
-**Обязательно ли готовить техническое задание?**
+**Можно ли заказать только одну функцию?**
 
-Нет. Можно начать с описания идеи. Детали уточняются в процессе обсуждения.
+Да. Небольшие задачи также рассматриваются как индивидуальная разработка.
 
-**Можно ли объединить несколько мини-ботов в одного?**
+**Можно ли объединить несколько модулей в одного бота?**
 
-Во многих случаях да. Возможность объединения зависит от логики и совместимости модулей.
+Да, если это технически осуществимо. Архитектура и взаимодействие модулей обсуждаются заранее.
 
-**Можно ли изменить готового бота?**
+**Можно ли заказать уникальный дизайн?**
 
-Индивидуальные изменения можно обсудить отдельно. Они не входят автоматически в стандартную комплектацию.
-
-**Будет ли бот работать круглосуточно?**
-
-Для круглосуточной работы обычно требуется постоянно доступный сервер или подходящий хостинг.
-
-**Можно ли разработать бота с уникальным дизайном?**
-
-Да, в рамках интерфейсных возможностей Discord.
+Да, в пределах возможностей интерфейсов Discord.
 
 **Можно ли подключить Telegram или другой сервис?**
 
-Это возможно для поддерживаемых интеграций при наличии необходимых API, разрешений и технических условий.
+Возможность интеграции зависит от доступных API, разрешений и правил соответствующих платформ.
 
-**Можно ли расширять проект после завершения?**
+**Можно ли доработать существующего бота?**
 
-Да. Дальнейшие функции и этапы развития могут быть согласованы отдельно.
+Да, после оценки его исходного кода и технического состояния.
 
-**Сколько стоит индивидуальный бот?**
+**Будет ли бот работать круглосуточно?**
 
-Стоимость зависит от объёма и сложности проекта. Единой фиксированной цены для всех индивидуальных заказов нет.
+Для работы 24/7 обычно требуется постоянно доступный компьютер или сервер. Хостинг согласовывается отдельно.
 
-**Какие гарантии и условия поддержки?**
+**Сколько стоит разработка?**
 
-Условия исправления ошибок, поддержки, изменений и дальнейшего обслуживания согласуются для конкретного заказа и фиксируются в его условиях.
+Стоимость определяется индивидуально по согласованному техническому заданию.
+
+**Когда нужно оплачивать заказ?**
+
+После согласования функциональности, стоимости, сроков и других существенных условий.
+
+**Можно ли изменить ТЗ после начала работы?**
+
+Изменения обсуждаются отдельно и могут повлиять на стоимость и сроки.
+
+**Какая поддержка предоставляется после передачи?**
+
+Условия исправления ошибок, поддержки и дальнейшего сопровождения определяются при согласовании заказа.
 
 ---
 
 <div align="center">
 
-## 📩 Оформить заказ
+## 📩 Заказать индивидуального Discord-бота
 
-### BOT ZAVOD | Discord Development
+### BOT ZAVOD | Custom Discord Development
 
-**Готовые боты · Мини-решения · Индивидуальная разработка**
+**STANDARD DEVELOPMENT · PREMIUM DEVELOPMENT**
 
-Опишите вашу задачу, и мы обсудим подходящий формат реализации.
+От небольшой автоматизации до сложной системы с интерактивными интерфейсами.
 
-<br>
+**Сначала обсуждаем задачу, затем согласовываем условия и оформляем заказ.**
 
 **[🛒 Связаться через FunPay](https://funpay.com/users/14765417/)**
 
-<br>
-
-[📦 Готовые боты](CATALOG.md) · [🧩 Мини-боты](MODULES.md) · [💎 Разработка по ТЗ](CUSTOM-DEVELOPMENT.md) · [🎮 Портфолио](PORTFOLIO.md)
+[💎 Каталог услуг](CATALOG.md) · [🧩 Модули](MODULES.md) · [👑 Индивидуальная разработка](CUSTOM-DEVELOPMENT.md) · [🎮 Портфолио](PORTFOLIO.md)
 
 </div>
 
@@ -445,381 +384,360 @@ Discord-боту необходима среда, в которой будет �
 
 ## 🇬🇧 How to Order a Discord Bot
 
-### Choose the right development format
+### Custom Development Built Around Your Requirements
 
 </div>
 
-**BOT ZAVOD** offers ready-to-use Discord bots, focused mini-bot development, and fully custom Discord systems built with Python.
+**BOT ZAVOD** develops Discord bots tailored to individual project requirements.
 
-Choose the option that best matches your requirements.
+Whether you need a small automation tool, interactive interfaces, or an advanced Discord system, the functionality and project scope are discussed individually.
 
-| Option | Best For |
-|:---|:---|
-| 📦 **Ready-to-Use Bot** | Existing product with a defined feature set |
-| 🧩 **Mini Bot / Module** | Focused functionality for a specific task |
-| 💎 **Custom Development** | Individual systems, interfaces, and integrations |
+**Pricing, delivery timelines, and deliverables are agreed upon before payment.**
+
+A complete technical specification is not required for the initial discussion.
 
 ---
 
 <div align="center">
 
-## 📦 01. Ready-to-Use Discord Bots
-
-### Choose an existing product
+## 🏗️ 01. Choose Your Development Approach
 
 </div>
 
-Available product categories include BASIC, COMFORT, ALL-IN-ONE, PREMIUM MUSIC, NEXUS PREMIUM, and specialized bots.
+### 🚀 STANDARD DEVELOPMENT
 
-### How to Purchase
+**Discord Bots for Specific Tasks**
 
-1. Browse the catalog.
-2. Select a product.
-3. Open the current FunPay listing.
-4. Review its features and delivery contents.
-5. Complete the purchase through the marketplace.
-6. Receive the files and instructions specified in the listing.
+Suitable for smaller projects and focused automation.
 
-<div align="center">
-
-**[📦 Ready-to-Use Bot Catalog](CATALOG.md) · [🛒 FunPay Store](https://funpay.com/users/14765417/)**
-
-</div>
-
-Custom modifications, hosting, and server configuration are not automatically included unless stated in the product offer.
-
----
-
-<div align="center">
-
-## 🧩 02. Mini Bots & Modules
-
-### Focused solutions for specific tasks
-
-</div>
-
-Examples include:
+Possible features include:
 
 - Welcome messages.
-- Automatic roles.
-- Ticket systems.
-- Application forms.
-- Giveaways.
-- Leveling.
-- Virtual economy.
-- Temporary voice channels.
-- Interactive panels.
-- Automated notifications.
+- Automatic role assignment.
+- Rules acceptance.
+- Notifications and announcements.
+- Basic moderation.
+- Activity logs.
+- Support tickets and applications.
+- Interactive buttons and menus.
 
-### How to Request a Module
+**Focus:** practical functionality tailored to your requirements.
 
-1. Select the functionality you need.
-2. Explain whether it should be standalone or integrated.
-3. Describe the desired behavior.
-4. Share additional requirements.
-5. Agree on scope, price, and timeline.
-
-<div align="center">
-
-**[🧩 Mini Bots & Modules](MODULES.md)**
-
-</div>
-
-The module directory describes potential development offerings, not exclusively prebuilt products.
+**[🚀 Discuss a Standard Project](https://funpay.com/users/14765417/)**
 
 ---
 
-<div align="center">
+### 👑 PREMIUM DEVELOPMENT
 
-## 💎 03. Custom Discord Development
+**Advanced Custom Discord Systems**
 
-### Built around your requirements
+Suitable for gaming communities and projects requiring integrated functionality and custom interfaces.
 
-</div>
+Possible features include:
 
-Choose custom development when you need unique functionality, interfaces, integrations, or a larger connected system.
-
-Possible projects include:
-
-- Custom Discord bots.
-- Interactive dashboards.
-- Player profiles.
-- Gaming systems.
-- Virtual economy.
+- Consistent visual design.
+- Interactive navigation.
+- Administration dashboards.
+- Member profiles.
+- Virtual economy and shops.
+- Gaming mechanics.
 - Clans and rankings.
-- Community management.
-- Support and application systems.
+- Support systems.
+- Statistics and notifications.
 - External integrations.
-- Complex automation workflows.
 
-<div align="center">
+**Focus:** custom architecture, connected modules, and intuitive management.
 
-**[💎 Custom Development](CUSTOM-DEVELOPMENT.md)**
+**[👑 Discuss an Advanced Project](https://funpay.com/users/14765417/)**
 
-</div>
+> STANDARD and PREMIUM describe typical project complexity, not fixed feature packages. The final scope is determined by the agreed requirements.
 
 ---
 
 <div align="center">
 
-## 🧭 Development Workflow
+## 🧭 02. Development Process
 
-### Seven stages from idea to delivery
+### Seven Steps From Idea to Delivery
 
 </div>
 
 | Stage | Description |
 |:---|:---|
-| **01. Discussion** | Understand your goals and expected outcome |
-| **02. Requirements** | Define functionality, workflows, permissions, and integrations |
-| **03. Estimate** | Agree on scope, price, and timeline |
-| **04. Development** | Implement the agreed functionality |
-| **05. Testing** | Verify relevant scenarios and permissions |
-| **06. Delivery** | Provide the agreed files and instructions |
-| **07. Expansion** | Discuss future improvements if needed |
+| **01. Discussion** | Explain your goals and expected outcome |
+| **02. Requirements** | Define features, interfaces, and technical needs |
+| **03. Agreement** | Confirm scope, price, timeline, and deliverables |
+| **04. Order** | Complete payment through FunPay under the agreed terms |
+| **05. Development** | Implement the approved functionality |
+| **06. Testing** | Verify the agreed workflows |
+| **07. Delivery** | Receive the completed project and agreed materials |
 
 ### Step 1 · Initial Discussion
 
-Describe your idea, goals, and the problem you want to solve.
+Describe what your bot should do and which problems it should solve.
 
-A complete technical specification is not required for the initial discussion.
+You can start with a simple explanation. Technical terminology is not required.
 
 ### Step 2 · Requirements
 
 We clarify:
 
-- Core functionality.
+- Project purpose.
+- Required features.
 - User workflows.
 - Roles and permissions.
-- Interface requirements.
-- Data handling.
-- Integrations.
-- Hosting expectations.
+- Interface design.
+- Data storage.
+- External integrations.
+- Hosting requirements.
 - Technical limitations.
 
-### Step 3 · Project Estimate
+### Step 3 · Project Agreement
 
-We discuss feasibility, implementation approach, project scope, pricing, timeline, milestones, and delivery materials.
+Before payment, we confirm:
 
-Development begins after the essential order terms have been agreed upon.
+- Technical requirements.
+- Functional scope.
+- Project price.
+- Delivery timeline.
+- Milestones, if applicable.
+- Deliverables.
+- Support and modification terms.
 
-### Step 4 · Development
+**Development begins after the essential order terms have been agreed upon and the order has been placed.**
 
-The agreed functionality and interfaces are implemented.
+### Step 4 · Placing the Order
+
+The customer completes payment through FunPay according to the agreed project terms.
+
+If payment is made without prior consultation, the requirements and order terms must be clarified in FunPay chat before development begins.
+
+### Step 5 · Development
+
+The approved features and interfaces are implemented.
 
 Larger projects may be divided into milestones.
 
-### Step 5 · Testing
+Features outside the agreed scope are discussed separately.
 
-Relevant functionality, permissions, data handling, and common error scenarios are checked within the agreed scope.
+### Step 6 · Testing
 
-### Step 6 · Delivery
+Testing may cover:
 
-Depending on the agreement, delivery may include:
+- Core functionality.
+- User workflows.
+- Administration permissions.
+- Data handling.
+- Module interactions.
+- Common error scenarios.
 
-- Bot source files.
+Testing is performed within the agreed project scope.
+
+### Step 7 · Delivery
+
+Depending on the agreement, deliverables may include:
+
+- Bot source code.
+- Project files.
 - Dependency information.
-- Configuration guidance.
 - Setup instructions.
 - Launch instructions.
-- Additional agreed materials.
+- Configuration guidance.
+- Additional agreed documentation.
 
-### Step 7 · Future Improvements
-
-Additional features, integrations, maintenance, and upgrades can be discussed separately.
+Further development and maintenance can be discussed separately.
 
 ---
 
 <div align="center">
 
-## 📋 Request Template
+## 📋 03. Project Request Template
 
-### What information should you provide?
+### What Should You Include?
 
 </div>
 
 **Project name:**  
-Your Discord server or bot name.
-
-**Order type:**  
-Ready-to-use bot / mini bot / custom development / modification.
+Your Discord server or future bot name.
 
 **Purpose:**  
 What should the bot accomplish?
 
-**Features:**  
-Describe the required functionality.
+**Required features:**  
+Which tasks should it perform?
 
 **Interface:**  
-Buttons, menus, panels, forms, or custom design.
+Do you need buttons, menus, forms, dashboards, or custom styling?
+
+**Members and administration:**  
+Who will use the bot, and which permissions are required?
 
 **Integrations:**  
-Telegram, website, API, or other services.
+Telegram, websites, APIs, or other services.
 
 **Existing project:**  
-Do you already have a bot and its source code?
+Is this a new bot or an extension of an existing one?
 
 **Hosting:**  
-Windows, Linux, VPS, or another environment.
+Windows, Linux VPS, or another environment.
 
 **References:**  
-Screenshots, links, or similar examples.
+Screenshots, links, or examples of similar systems.
 
 **Additional notes:**  
-Anything else we should consider.
+Anything else that should be considered.
 
-You can submit an incomplete description. Missing details can be clarified during the discussion.
+> You do not need to complete every field. Missing details can be clarified during the discussion.
 
 ---
 
 <div align="center">
 
-## 🎨 Interface Design
+## 🎨 04. Interface Design
 
-### Interactive and consistent Discord interfaces
+### Practical and Consistent Discord Interfaces
 
 </div>
 
 Custom projects may include:
 
-- Navigation panels.
 - Interactive buttons.
 - Select menus.
 - Modal forms.
+- Navigation panels.
 - Member profiles.
-- Administrative dashboards.
+- Administration dashboards.
+- Information messages.
 - Confirmation workflows.
 - Consistent visual styling.
 
-Interface design follows Discord's supported features and technical limitations.
+All interfaces are designed around Discord's supported features and technical limitations.
 
-**Featured example:** [🎮 GAME PLAY](https://github.com/BotZavod/gameplay-discord).
+**Featured project: [🎮 GAME PLAY](https://github.com/BotZavod/gameplay-discord)**
 
 ---
 
 <div align="center">
 
-## 🖥️ Hosting & Deployment
+## 🖥️ 05. Hosting & Deployment
 
-### Where will your bot run?
+### Where Will Your Bot Run?
 
 </div>
-
-Discord bots require a runtime environment.
 
 | Environment | Notes |
 |:---|:---|
-| 💻 Local computer | The bot runs while the application and connection remain available |
-| ☁️ VPS / server | Suitable for long-running or continuous operation |
-| ⚙️ Other environment | Evaluated based on compatibility and requirements |
+| 💻 Windows | Runs while the application and connection remain available |
+| ☁️ Linux VPS | Suitable for long-running and continuous operation |
+| ⚙️ Other infrastructure | Evaluated based on compatibility and project requirements |
 
-Hosting, server rental, deployment, and ongoing maintenance are discussed separately unless included in the agreed scope.
+**Hosting, VPS rental, deployment, and ongoing maintenance are not automatically included.**
 
-Never publish Discord bot tokens or other secrets in public repositories.
+Never publish Discord bot tokens or other credentials in public repositories or messages.
 
 ---
 
 <div align="center">
 
-## 🔧 Existing Bot Modifications
+## 🔧 06. Existing Bot Modifications
 
-### Extend an existing project
+### Improve or Expand Your Current Project
 
 </div>
 
-Existing projects may be extended with:
+Possible services include:
 
-- New functionality.
-- Interactive panels.
-- Database features.
-- External integrations.
-- Targeted bug fixes.
-- Structural improvements.
+- Adding new functionality.
+- Creating interactive panels.
+- Modifying existing mechanics.
+- Fixing specific issues.
+- Database integration.
+- External service integrations.
+- Improving project structure.
+- Preparing for future expansion.
 
 A technical review of the available source code, dependencies, and architecture is required before confirming feasibility.
+
+**Data preservation and compatibility requirements must be evaluated before development.**
 
 ---
 
 <div align="center">
 
-## 💬 Frequently Asked Questions
+## 💬 07. Frequently Asked Questions
 
 ### FAQ
 
 </div>
 
-**Can I request a feature that is not listed?**
-
-Yes. Describe your idea so we can assess feasibility.
-
 **Do I need a complete technical specification?**
 
-No. We can clarify requirements during the initial discussion.
+No. You can start with your idea and clarify the requirements during consultation.
 
-**Can several modules be combined?**
+**Can I order just one feature?**
 
-Often yes, depending on compatibility and architecture.
+Yes. Small, focused tasks can be handled as custom development.
 
-**Can a ready-made bot be customized?**
+**Can several modules be combined into one bot?**
 
-Custom changes can be discussed separately.
+Yes, subject to technical feasibility and compatibility.
 
-**Will the bot run 24/7?**
-
-Continuous operation typically requires suitable always-available hosting.
-
-**Can I request a unique interface?**
+**Can I request a unique design?**
 
 Yes, within Discord's supported interface capabilities.
 
-**Can you integrate Telegram or another platform?**
+**Can you integrate Telegram or other services?**
 
-Supported integrations can be considered based on available APIs, permissions, and service limitations.
+Integrations depend on available APIs, permissions, and third-party platform policies.
 
-**Can the project be expanded later?**
+**Can you modify an existing bot?**
 
-Yes. Future development can be agreed upon separately.
+Yes, after reviewing its source code and technical condition.
 
-**How much does a custom bot cost?**
+**Will the bot run 24/7?**
 
-Pricing depends on the specific scope and complexity.
+Continuous operation usually requires suitable always-available hosting, which is discussed separately.
 
-**What about support and bug fixes?**
+**How much does development cost?**
 
-Support, bug-fix, and maintenance terms are defined for each individual order.
+Pricing depends on the agreed scope and complexity.
+
+**When should I pay?**
+
+After the functionality, price, timeline, and other essential project terms have been agreed upon.
+
+**Can I change the requirements after development begins?**
+
+Changes can be discussed separately and may affect pricing and delivery timelines.
+
+**What support is provided after delivery?**
+
+Bug-fix, support, and maintenance terms are agreed upon for each order.
 
 ---
 
 <div align="center">
 
-## 📩 Start Your Order
+## 📩 Start Your Custom Discord Project
 
-### BOT ZAVOD | Discord Bot Development
+### BOT ZAVOD | Custom Discord Development
 
-**Ready Bots · Mini Solutions · Custom Projects**
+**STANDARD DEVELOPMENT · PREMIUM DEVELOPMENT**
 
-Describe your idea, and we can discuss the most suitable implementation approach.
+From focused automation to advanced Discord systems with interactive interfaces.
 
-<br>
+**Discuss your requirements, confirm the terms, and place your order.**
 
 **[🛒 Contact BOT ZAVOD on FunPay](https://funpay.com/users/14765417/)**
 
-<br>
-
-[📦 Catalog](CATALOG.md) · [🧩 Modules](MODULES.md) · [💎 Custom Development](CUSTOM-DEVELOPMENT.md) · [🎮 Portfolio](PORTFOLIO.md)
-
-</div>
+[💎 Service Catalog](CATALOG.md) · [🧩 Modules](MODULES.md) · [👑 Custom Development](CUSTOM-DEVELOPMENT.md) · [🎮 Portfolio](PORTFOLIO.md)
 
 ---
 
-<div align="center">
-
 ### ⚙️ Explore BOT ZAVOD
 
-[🏠 Home](README.md) · [⚙️ Capabilities](CAPABILITIES.md) · [🧩 Modules](MODULES.md) · [📦 Catalog](CATALOG.md) · [💎 Custom Development](CUSTOM-DEVELOPMENT.md) · [🎮 Portfolio](PORTFOLIO.md)
+[🏠 Home](README.md) · [⚙️ Capabilities](CAPABILITIES.md) · [🧩 Modules](MODULES.md) · [💎 Service Catalog](CATALOG.md) · [👑 Custom Development](CUSTOM-DEVELOPMENT.md) · [🎮 Portfolio](PORTFOLIO.md)
 
-<br>
-
-**BOT ZAVOD · Discord Bots · Python · Custom Development**
+**BOT ZAVOD · Custom Discord Bots · Interactive Systems · Automation**
 
 </div>

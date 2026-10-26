@@ -1,24 +1,18 @@
 <div align="center">
 
-<h1>⚙️ BOT ZAVOD | Discord Bot Capabilities</h1>
+# ⚙️ BOT ZAVOD | Discord Bot Capabilities
 
-<img src="assets/banners/02_capabilities-banner.png" width="100%" alt="BOT ZAVOD — Discord Bot Capabilities">
+<img src="assets/banners/02_capabilities-banner.png" width="100%" alt="BOT ZAVOD | Discord Bot Capabilities">
 
-<br>
+**CUSTOM DEVELOPMENT · INTERACTIVE SYSTEMS · AUTOMATION**
 
-**DISCORD DEVELOPMENT · AUTOMATION · INTERACTIVE SYSTEMS**
+### От простой автоматизации до комплексной Discord-системы
 
-### От простого бота до комплексной Discord-экосистемы
-
-*From a simple bot to a complete Discord ecosystem.*
-
-<br>
+*From Simple Automation to Advanced Discord Systems*
 
 [🇷🇺 Русский](#русская-версия) · [🇬🇧 English](#english-version)
 
-<br>
-
-[🏠 Главная](README.md) · [🧩 Модули](MODULES.md) · [📦 Каталог](CATALOG.md) · [⚙️ Разработка по ТЗ](CUSTOM-DEVELOPMENT.md) · [🎮 Портфолио](PORTFOLIO.md) · [📩 Заказ](ORDER.md)
+[🏠 Главная](README.md) · [🧩 Модули](MODULES.md) · [💎 Услуги](CATALOG.md) · [👑 Разработка](CUSTOM-DEVELOPMENT.md) · [🎮 Портфолио](PORTFOLIO.md) · [📩 Заказ](ORDER.md)
 
 </div>
 
@@ -28,402 +22,267 @@
 
 <div align="center">
 
-## 🇷🇺 Русская версия
+## 🇷🇺 Возможности BOT ZAVOD
 
-### 🏭 Возможности BOT ZAVOD
-
-</div>
-
-**BOT ZAVOD** разрабатывает Discord-ботов, интерактивные интерфейсы и системы автоматизации на Python.
-
-От небольшого бота, выполняющего одну задачу, до полноценной Discord-экосистемы с взаимосвязанными модулями, собственной логикой, базой данных и индивидуальным интерфейсом.
-
-Каждый проект рассматривается отдельно. Функциональность, архитектура и оформление подбираются под конкретные задачи заказчика.
-
-<div align="center">
-
-### ⚙️ Форматы разработки
+### Ваши задачи. Индивидуальная реализация.
 
 </div>
 
-| Формат | Описание |
-|:---|:---|
-| 🤖 Мини-бот | Решение одной конкретной задачи |
-| 🧩 Отдельный модуль | Добавление функциональности в существующую систему |
-| ⚙️ Многофункциональный бот | Несколько связанных возможностей |
-| 🏗️ Комплексная система | Модули, база данных и единая логика |
-| 💎 Индивидуальный проект | Разработка под задачи и дизайн заказчика |
-| 🔧 Расширение существующего бота | Доработка после анализа проекта |
+**BOT ZAVOD** разрабатывает Discord-ботов с интерактивными интерфейсами, автоматизацией и индивидуальной логикой.
 
-> **Важно:** эта страница описывает направления возможной разработки. Не все перечисленные функции являются готовыми продуктами. Техническая возможность, сроки и стоимость определяются индивидуально.
+Мы создаём как небольшие решения для конкретных задач, так и комплексные системы с несколькими взаимосвязанными модулями.
+
+### Наш подход
+
+- 🎨 Единый визуальный стиль.
+- 🖱️ Удобное управление кнопками и меню.
+- 🧭 Продуманная навигация.
+- ⚙️ Индивидуальная архитектура.
+- 🔐 Разделение пользовательских и административных функций.
+- 🧩 Взаимодействие модулей.
+- 📈 Возможность дальнейшего развития.
+
+**Главное преимущество не количество команд, а удобство использования всей системы.**
 
 ---
 
 <div align="center">
 
-## 🛡️ 01. Модерация и безопасность
-
-*Защита сервера, контроль активности и автоматизация модерации*
+## 💎 Форматы разработки
 
 </div>
 
-**Возможности:**
+| Направление | Для каких задач |
+|:---|:---|
+| 🚀 **STANDARD DEVELOPMENT** | Небольшие боты и автоматизация отдельных процессов |
+| 👑 **PREMIUM DEVELOPMENT** | Комплексные системы, уникальный дизайн и взаимосвязанные функции |
+| 🔧 **Доработка существующего проекта** | Добавление функций и улучшение работающего бота |
+
+Это не фиксированные комплекты и не тарифы. Состав функций, стоимость и сроки определяются по техническому заданию.
+
+---
+
+<div align="center">
+
+## 🧩 Направления разработки
+
+### 12 категорий возможностей
+
+</div>
+
+### 🛡️ 01. Модерация и безопасность
+
+Инструменты поддержания порядка и управления безопасностью Discord-сервера.
+
+**Возможные функции:**
 
 - Автоматическая модерация сообщений.
-- Настраиваемые фильтры слов, фраз и ссылок.
-- Защита от спама и массовых упоминаний.
-- Ограничение подозрительной активности.
-- Предупреждения и система нарушений.
-- Временные ограничения доступа.
-- Управление блокировками участников.
-- Журнал действий модераторов.
-- Журнал изменений и удаления сообщений в пределах доступных событий Discord.
-- Отслеживание изменений ролей и каналов.
-- Контроль административных операций.
-- Защита от массовых разрушительных действий (Anti-Nuke).
-- Настраиваемые исключения для ролей и каналов.
-- Интерактивная панель модерации.
-- Отчёты об инцидентах.
+- Фильтрация спама, ссылок и запрещённых слов.
+- Предупреждения и ограничения доступа.
+- Управление блокировками.
+- Журналы действий.
+- Контроль изменений каналов и ролей.
+- Защита от массовых разрушительных действий.
+- Интерактивные панели модерации.
 
-**Примеры решений:** Moderation Bot, Anti-Nuke Bot, Warning System, Admin Center.
+### 🎫 02. Поддержка и заявки
 
----
+Системы обработки обращений участников.
 
-<div align="center">
+**Возможные функции:**
 
-## 🎫 02. Поддержка, тикеты и заявки
-
-*Удобная организация обращений и работы персонала*
-
-</div>
-
-**Возможности:**
-
-- Создание тикетов через кнопки и меню.
-- Разделение обращений по категориям.
-- Назначение ответственных сотрудников.
-- Передача обращения другому сотруднику.
-- Настраиваемые формы заявок.
-- Автоматическое создание приватных каналов.
-- Защита от повторного создания обращений.
-- Закрытие и архивирование тикетов.
-- История обращений.
-- Уведомления о новых заявках.
+- Создание тикетов через кнопки.
+- Категории обращений.
+- Приватные каналы поддержки.
+- Формы заявок.
+- Назначение ответственных.
 - Статусы обработки.
-- Панель управления обращениями.
-- Статистика работы поддержки.
-- Системы рассмотрения заявок на роли.
-- Регистрация на мероприятия.
+- Закрытие и архивирование обращений.
+- Уведомления администрации.
 
-**Примеры решений:** Ticket Bot, Application Bot, Support Center.
+### 👥 03. Участники и роли
 
----
+Автоматизация регистрации и управления доступом.
 
-<div align="center">
+**Возможные функции:**
 
-## 👥 03. Участники, роли и верификация
-
-*Автоматизация регистрации, доступа и управления участниками*
-
-</div>
-
-**Возможности:**
-
-- Автоматическая выдача ролей.
-- Роли по кнопкам и выпадающим меню.
-- Роли по реакциям.
 - Приветственные сообщения.
-- Настраиваемые сообщения при выходе.
-- Подтверждение правил сервера.
-- Пошаговая регистрация участников.
-- Анкеты и пользовательские профили.
-- Система проверки доступа.
-- Верификация через внешние сервисы при наличии API.
-- Управление временными ролями.
-- Автоматическое снятие ролей.
-- Роли за достижения и активность.
-- Настройка доступа к каналам.
-- Управление правами через административные панели.
+- Автоматическая выдача ролей.
+- Выбор ролей через кнопки и меню.
+- Подтверждение правил.
+- Верификация участников.
+- Анкеты и регистрационные формы.
+- Временные роли.
+- Управление доступом к каналам.
 
-**Примеры решений:** Autorole Bot, Verify Bot, Role Manager.
+### 💰 04. Экономика и магазины
 
----
+Внутренние виртуальные экономические системы для Discord-сообществ.
 
-<div align="center">
+**Возможные функции:**
 
-## 🪙 04. Экономика и виртуальные магазины
-
-*Внутренняя экономика для игровых и тематических сообществ*
-
-</div>
-
-**Возможности:**
-
-- Виртуальный баланс участников.
-- Несколько типов внутренних валют.
-- Ежедневные и периодические награды.
-- Награды за активность.
-- Внутренний магазин.
-- Покупка виртуальных предметов.
-- Покупка серверных ролей и привилегий.
-- Инвентарь участника.
-- Передача виртуальной валюты.
+- Виртуальная валюта.
+- Персональные балансы.
+- Ежедневные награды.
+- Магазины ролей и виртуальных предметов.
+- Переводы между участниками.
 - История операций.
-- Настраиваемые лимиты.
-- Рейтинги по балансу.
-- Система достижений.
-- Виртуальные задания и награды.
-- Управление экономикой через административную панель.
-- Аналитика начислений и списаний.
+- Инвентарь и достижения.
+- Административное управление экономикой.
 
-**Примеры решений:** Economy Bot, Virtual Shop, Reward System.
+### 🎮 05. Игровые системы
 
----
+Механики для игровых сообществ и тематических серверов.
 
-<div align="center">
-
-## 🎮 05. Игровые системы и сообщества
-
-*Профили, кланы, мини-игры и развитие игрового комьюнити*
-
-</div>
-
-**Возможности:**
+**Возможные функции:**
 
 - Профили игроков.
-- Система уровней и опыта.
-- Рейтинги активности.
-- Мини-игры внутри Discord.
-- Внутриигровые награды.
+- Уровни и опыт.
+- Мини-игры.
 - Кланы и команды.
-- Клановые роли и настройки.
 - Клановая казна.
-- Достижения и трофеи.
-- Ежедневные задания.
-- Соревнования и таблицы лидеров.
-- Регистрация на турниры.
-- Формирование игровых команд.
+- Рейтинги.
+- Достижения и награды.
 - Поиск тиммейтов.
-- Игровые уведомления.
-- Интеграции с игровыми сервисами при технической возможности.
+- Турниры и игровые мероприятия.
 
-**Примеры решений:** Leveling Bot, Clan Bot, Tournament Bot, Gaming Hub.
+### 🎵 06. Музыка и голосовые комнаты
 
----
+Управление музыкальными функциями и голосовыми каналами.
 
-<div align="center">
+**Возможные функции:**
 
-## 🎵 06. Музыка и голосовые системы
+- Музыкальные панели.
+- Управление воспроизведением.
+- Очереди композиций.
+- Интернет-радио при наличии подходящих источников.
+- Автоматические голосовые комнаты.
+- Настройка названий и лимитов.
+- Управление доступом.
+- Информационные панели.
 
-*Музыкальные панели, радио и управление голосовыми комнатами*
+### 🎉 07. Мероприятия и розыгрыши
 
-</div>
+Автоматизация событий внутри сообщества.
 
-**Возможности:**
-
-- Музыкальные команды и панели.
-- Управление очередью воспроизведения.
-- Кнопки управления музыкой.
-- Радиостанции и непрерывное воспроизведение при наличии работающего хостинга.
-- Автоматическое создание голосовых комнат.
-- Настройка временных голосовых каналов.
-- Управление доступом к голосовым комнатам.
-- Переименование пользовательских комнат.
-- Ограничение числа участников.
-- Голосовые уведомления.
-- Информационные панели состояния.
-- Специализированные голосовые системы для мероприятий.
-
-**Примеры решений:** Music Bot, Radio Bot, Auto Voice Bot.
-
----
-
-<div align="center">
-
-## 🎉 07. Мероприятия, розыгрыши и турниры
-
-*Автоматизация событий и организация активности участников*
-
-</div>
-
-**Возможности:**
+**Возможные функции:**
 
 - Создание мероприятий.
 - Регистрация участников.
-- Расписание событий.
-- Автоматические напоминания.
-- Розыгрыши призов.
-- Выбор победителей.
-- Настраиваемые условия участия.
+- Расписание.
+- Напоминания.
+- Розыгрыши.
+- Определение победителей.
 - Турнирные заявки.
-- Формирование команд.
-- Таблицы участников.
-- Рейтинги результатов.
-- Уведомления о начале мероприятий.
-- Панели управления организаторов.
-- Архив завершённых событий.
+- Панели организаторов.
+- Архив событий.
 
-**Примеры решений:** Giveaway Bot, Events Bot, Tournament Manager.
+### 📊 08. Статистика и аналитика
 
----
+Сбор и представление доступных данных об активности Discord-сервера.
 
-<div align="center">
+**Возможные функции:**
 
-## 📊 08. Статистика и аналитика
-
-*Информация об активности, развитии и работе Discord-сервера*
-
-</div>
-
-**Возможности:**
-
-- Статистика участников.
-- Отслеживание активности.
 - Статистика сообщений.
-- Статистика голосовой активности.
-- Динамика роста сообщества.
+- Голосовая активность.
 - Рейтинги участников.
-- Отчёты модерации.
-- Статистика обращений.
-- Аналитика внутренней экономики.
-- Автоматические отчёты.
-- Интерактивные информационные панели.
-- Экспорт доступных данных.
-- Административные сводки.
+- Рост сообщества.
+- Статистика модерации.
+- Отчёты поддержки.
+- Экономическая аналитика.
+- Интерактивные панели.
+- Автоматические сводки.
 
-**Примеры решений:** Statistics Bot, Activity Tracker, Analytics Dashboard.
+### 🧭 09. Интерактивные интерфейсы
 
----
+**Одно из ключевых направлений BOT ZAVOD.**
 
-<div align="center">
+Создание удобного управления ботом без необходимости запоминать множество команд.
 
-## 🧩 09. Интерактивные панели и управление
-
-*Удобные интерфейсы вместо десятков разрозненных команд*
-
-</div>
-
-**Возможности:**
+**Возможные функции:**
 
 - Главные панели навигации.
 - Кнопки и выпадающие меню.
-- Интерактивные формы.
-- Персональные панели участников.
-- Панели управления ролями.
+- Формы ввода.
+- Персональные панели.
 - Административные центры.
-- Настройки каналов и уведомлений.
-- Информационные карточки.
-- Контекстные подсказки.
-- Подтверждение важных действий.
-- Разделение функций по правам доступа.
-- Единый стиль интерфейсов.
-- Компактная навигация между разделами.
-- Панели для управления несколькими системами.
+- Управление настройками.
+- Подсказки и подтверждения действий.
+- Единый дизайн всех разделов.
 
-**Примеры решений:** Admin Dashboard, Community Hub, Interactive Control Center.
+### 🔗 10. Интеграции и автоматизация
 
----
+Связь Discord с другими сервисами и автоматизация процессов.
 
-<div align="center">
-
-## 🔗 10. Интеграции и автоматизация
-
-*Связь Discord с внешними сервисами и автоматизация процессов*
-
-</div>
-
-**Возможности:**
+**Возможные функции:**
 
 - Интеграции с Telegram.
 - Подключение внешних API.
-- Уведомления с сайтов и сервисов.
-- Автоматизация обработки заявок.
-- Передача информации между системами.
-- Синхронизация отдельных данных.
-- Настраиваемые расписания.
+- Вебхуки.
+- Уведомления с сайтов.
+- Обработка заявок.
 - Автоматические публикации.
-- Управление доступом по внешним событиям.
-- Интеграции с базами данных.
-- Автоматические отчёты.
-- Веб-панели при необходимости.
-- Обработка событий через вебхуки.
-- Пользовательские бизнес-процессы.
+- Расписания и напоминания.
+- Работа с базами данных.
+- Синхронизация отдельных данных.
 
-**Примеры решений:** Telegram–Discord Integration, Notification Bot, Workflow Automation.
+Возможность интеграции зависит от доступности API, разрешений и ограничений сторонних сервисов.
 
-> Техническая возможность интеграции зависит от доступности API, разрешений и ограничений сторонних сервисов.
+### 💼 11. Управление доступом и подписками
 
----
+Системы предоставления и контроля доступа к закрытым разделам или мероприятиям.
 
-<div align="center">
+**Возможные функции:**
 
-## 💼 11. Коммерческие системы и управление доступом
-
-*Подписки, временный доступ и управление услугами*
-
-</div>
-
-**Возможности:**
-
-- Управление ролями доступа.
-- Разовые доступы к мероприятиям.
-- Доступ по подписке.
-- Учёт срока действия доступа.
-- Заявки на предоставление доступа.
-- Административное подтверждение заказов.
-- Уведомления об окончании подписки.
-- Управление категориями клиентов.
+- Разовый доступ.
+- Подписки на определённый период.
+- Автоматическое окончание доступа.
+- Выдача ролей.
+- Подтверждение заявок администрацией.
+- История предоставленных доступов.
+- Уведомления о завершении подписки.
 - Панели управления услугами.
-- История выдачи доступа.
-- Система заявок на продление.
-- Интеграции с внешними платёжными сервисами при технической и правовой возможности.
 
-**Примеры решений:** Membership Bot, Subscription Manager, Access Management System.
+### 🧠 12. Нестандартные проекты
 
----
+Разработка индивидуальных систем, которые не ограничиваются типовыми возможностями Discord-ботов.
 
-<div align="center">
+**Примеры направлений:**
 
-## 🧠 12. Нестандартные проекты по техническому заданию
+- Уникальные игровые механики.
+- Специализированные административные системы.
+- Многоэтапные процессы.
+- Системы для закрытых сообществ.
+- Управление мероприятиями.
+- Индивидуальные интеграции.
+- Расширение существующих проектов.
+- Комплексные Discord-платформы.
 
-*Индивидуальные решения, которые выходят за рамки стандартных ботов*
-
-</div>
-
-**BOT ZAVOD может рассмотреть разработку:**
-
-- Уникальных игровых механик.
-- Специализированных административных систем.
-- Ботов для тематических сообществ.
-- Систем управления мероприятиями.
-- Пользовательских систем регистрации.
-- Инструментов для команд и организаций.
-- Многоэтапных автоматизированных процессов.
-- Индивидуальных интеграций.
-- Комплексных Discord-платформ.
-- Расширений существующих проектов.
-
-**Главный принцип:** заказчик описывает задачу, а архитектура, интерфейс и набор функций определяются при обсуждении проекта.
+**Если нужной функции нет в списке, её можно обсудить отдельно.**
 
 ---
 
 <div align="center">
 
-## 🏗️ Масштаб проекта
+## 🎨 Единый дизайн и интерактивное управление
 
-*От небольшого инструмента до комплексной Discord-системы*
+### Интерфейс является частью системы
 
 </div>
 
-| Уровень | Пример |
-|:---|:---|
-| Мини | Автороль, приветствие, одна панель |
-| Малый | Тикеты, заявки или система розыгрышей |
-| Средний | Модерация, роли, поддержка и статистика |
-| Крупный | Экономика, профили, кланы, игры, администрирование |
-| Индивидуальный | Уникальная система с интеграциями и нестандартной логикой |
+Мы рассматриваем дизайн не как отдельное украшение, а как важную часть удобства Discord-бота.
 
-Это ориентировочная классификация, а не фиксированные тарифы.
+В рамках индивидуальной разработки могут использоваться:
+
+- Согласованное оформление панелей.
+- Единые принципы навигации.
+- Кнопки и меню для основных действий.
+- Компактные информационные сообщения.
+- Разделение функций по правам доступа.
+- Подтверждение важных операций.
+- Административные инструменты с понятными настройками.
+
+Визуальная концепция определяется под конкретный проект с учётом технических возможностей Discord.
 
 ---
 
@@ -431,30 +290,37 @@
 
 ## 🎮 Реальный пример: GAME PLAY
 
-*Gaming Community · Interactive Systems · Custom Development*
+### Авторская игровая Discord-система
+
+**DOTA 2 · CS2 · RUST · PUBG**
 
 </div>
 
-**GAME PLAY** демонстрирует применение нескольких взаимосвязанных систем в рамках одного Discord-проекта.
+**GAME PLAY** демонстрирует подход BOT ZAVOD к объединению нескольких функций в одну интерактивную систему.
 
-В проекте представлены:
+В проекте представлены направления:
 
-- Интерактивные панели и навигация.
+- Единая навигация.
 - Профили участников.
-- Игровая экономика.
+- Виртуальная экономика.
 - Мини-игры.
 - Кланы.
 - Steam-верификация.
-- Система поддержки.
-- Административные инструменты.
+- Поддержка.
+- Музыкальные и голосовые функции.
+- Административные панели.
 
-В отличие от общего перечня возможностей, GAME PLAY представлен как конкретный проект с документацией и скриншотами интерфейсов.
+**Единый дизайн уже реализован и является основой интерфейсов проекта.**
+
+Часть функциональности находится в разработке, интеграции или тестировании. Представленные возможности не следует воспринимать как подтверждение полного производственного запуска.
+
+**GAME PLAY представлен как пример индивидуальной разработки, а не как готовый товар.**
 
 <div align="center">
 
-**[🎮 Репозиторий GAME PLAY](https://github.com/BotZavod/gameplay-discord)**
+**[🎮 Открыть GAME PLAY](https://github.com/BotZavod/gameplay-discord)**
 
-**[📸 Интерфейсы и функции](https://github.com/BotZavod/gameplay-discord/blob/main/docs/FEATURES.md) · [💼 Портфолио BOT ZAVOD](PORTFOLIO.md)**
+[📸 Интерфейсы и функции](https://github.com/BotZavod/gameplay-discord/blob/main/docs/FEATURES.md) · [💼 Портфолио](PORTFOLIO.md)
 
 </div>
 
@@ -462,17 +328,23 @@
 
 <div align="center">
 
-## 📩 Обсудить идею
+## 📩 Обсудить разработку
 
-### Нужна функция, которой нет в списке?
+### От идеи до согласованного проекта
 
 </div>
 
-Опишите задачу, желаемые возможности и примеры похожих решений. После обсуждения можно определить техническую возможность, объём работ, сроки и стоимость.
+Расскажите, какие задачи должен выполнять Discord-бот.
+
+Мы обсудим функциональность, интерфейсы, техническую реализацию, сроки и стоимость.
+
+**Оплата производится после согласования условий заказа.**
 
 <div align="center">
 
-**[⚙️ Индивидуальная разработка](CUSTOM-DEVELOPMENT.md) · [🛒 Связаться через FunPay](https://funpay.com/users/14765417/) · [📋 Как оформить заказ](ORDER.md)**
+**[🛒 Связаться через FunPay](https://funpay.com/users/14765417/)**
+
+[👑 Индивидуальная разработка](CUSTOM-DEVELOPMENT.md) · [📋 Как заказать](ORDER.md)
 
 </div>
 
@@ -482,398 +354,267 @@
 
 <div align="center">
 
-## 🇬🇧 English Version
+## 🇬🇧 BOT ZAVOD Capabilities
 
-### 🏭 BOT ZAVOD Development Capabilities
-
-</div>
-
-**BOT ZAVOD** develops custom Discord bots, interactive interfaces, and automation systems using Python.
-
-Projects can range from a single-purpose bot to a complete Discord ecosystem with connected modules, persistent data, and custom workflows.
-
-Each solution is designed around the client's requirements, preferred functionality, and interface style.
-
-<div align="center">
-
-### ⚙️ Development Formats
+### Your Requirements. Custom Implementation.
 
 </div>
 
-| Format | Description |
-|:---|:---|
-| 🤖 Mini Bot | A focused solution for one task |
-| 🧩 Module | An additional feature for an existing system |
-| ⚙️ Multifunctional Bot | Several connected features |
-| 🏗️ Complete System | Integrated modules, data, and centralized management |
-| 💎 Custom Project | Development tailored to specific requirements |
-| 🔧 Extension | Improvements to an existing bot after technical review |
+**BOT ZAVOD** develops custom Discord bots featuring interactive interfaces, automation, and tailored functionality.
 
-> **Important:** this page describes potential development capabilities. Not every feature listed is available as a ready-to-use product. Feasibility, scope, timeline, and pricing are discussed individually.
+Our work ranges from focused automation tools to advanced systems with interconnected modules.
+
+### Our Approach
+
+- 🎨 Consistent visual design.
+- 🖱️ Interactive buttons and menus.
+- 🧭 Intuitive navigation.
+- ⚙️ Custom architecture.
+- 🔐 Role-based access.
+- 🧩 Connected modules.
+- 📈 Future expandability.
+
+**Our focus is not the number of commands, but how effectively the entire system works for its users.**
 
 ---
 
 <div align="center">
 
-## 🛡️ 01. Moderation & Security
-
-*Community protection, activity monitoring, and moderation automation*
+## 💎 Development Approaches
 
 </div>
+
+| Approach | Suitable For |
+|:---|:---|
+| 🚀 **STANDARD DEVELOPMENT** | Focused bots and individual automation tasks |
+| 👑 **PREMIUM DEVELOPMENT** | Advanced systems with custom interfaces and integrated functionality |
+| 🔧 **Existing Bot Development** | Improvements and extensions to existing projects |
+
+These are not fixed packages or pricing tiers. Project scope, pricing, and delivery timelines are agreed upon individually.
+
+---
+
+<div align="center">
+
+## 🧩 Development Capabilities
+
+### 12 Areas of Custom Development
+
+</div>
+
+### 🛡️ 01. Moderation & Security
+
+Tools for managing Discord community safety and moderation.
 
 **Potential features:**
 
 - Automated message moderation.
-- Configurable word, phrase, and link filters.
-- Anti-spam and mass-mention protection.
-- Suspicious activity monitoring.
-- Warning and violation systems.
-- Temporary restrictions and bans.
-- Moderator action logs.
-- Message edit and deletion logs, subject to available Discord events.
+- Spam and link filters.
+- Warning systems.
+- Member restrictions and bans.
+- Moderation logs.
 - Role and channel change tracking.
-- Administrative activity monitoring.
 - Anti-Nuke protection.
-- Role and channel exceptions.
 - Interactive moderation panels.
-- Incident notifications and reports.
 
-**Example projects:** Moderation Bot, Anti-Nuke Bot, Warning System, Admin Center.
+### 🎫 02. Support & Applications
 
----
-
-<div align="center">
-
-## 🎫 02. Support, Tickets & Applications
-
-*Structured request management and support workflows*
-
-</div>
+Interactive systems for handling community requests.
 
 **Potential features:**
 
 - Button-based ticket creation.
-- Ticket categories.
+- Support categories.
 - Private support channels.
-- Staff assignment and reassignment.
-- Custom application forms.
-- Duplicate ticket prevention.
-- Request status tracking.
+- Application forms.
+- Staff assignment.
+- Request statuses.
 - Ticket closure and archiving.
-- Request history.
 - Staff notifications.
-- Support management panels.
-- Support analytics.
-- Role applications.
-- Event registration.
 
-**Example projects:** Ticket Bot, Application Bot, Support Center.
+### 👥 03. Members, Roles & Verification
 
----
-
-<div align="center">
-
-## 👥 03. Members, Roles & Verification
-
-*Member onboarding, verification, and permission management*
-
-</div>
+Automation for onboarding and access management.
 
 **Potential features:**
 
+- Welcome messages.
 - Automatic role assignment.
-- Button-based role selection.
-- Dropdown role menus.
-- Reaction roles.
-- Welcome and departure messages.
+- Interactive role selection.
 - Rules acceptance.
-- Step-by-step onboarding.
-- Member forms and profiles.
-- Verification workflows.
-- External verification where supported by an API.
+- Member verification.
+- Registration forms.
 - Temporary roles.
-- Automatic role removal.
-- Achievement-based roles.
 - Channel access management.
-- Administrative role panels.
 
-**Example projects:** Autorole Bot, Verify Bot, Role Manager.
+### 💰 04. Economy & Virtual Shops
 
----
-
-<div align="center">
-
-## 🪙 04. Economy & Virtual Shops
-
-*Custom virtual economy systems for Discord communities*
-
-</div>
+Custom virtual economies for Discord communities.
 
 **Potential features:**
 
-- Virtual member balances.
-- Multiple virtual currencies.
-- Daily and periodic rewards.
-- Activity rewards.
+- Virtual currencies.
+- Member balances.
+- Daily rewards.
 - Virtual shops.
-- Purchasable server roles and perks.
-- Virtual items and inventories.
 - Currency transfers.
 - Transaction history.
-- Configurable limits.
-- Balance leaderboards.
-- Achievements and rewards.
-- Virtual tasks.
-- Economy administration panels.
-- Earnings and spending analytics.
+- Inventories and achievements.
+- Economy administration.
 
-**Example projects:** Economy Bot, Virtual Shop, Reward System.
+### 🎮 05. Gaming Systems
 
----
-
-<div align="center">
-
-## 🎮 05. Gaming Systems & Communities
-
-*Player profiles, clans, mini-games, and gaming community tools*
-
-</div>
+Interactive features for gaming communities.
 
 **Potential features:**
 
 - Player profiles.
-- Experience and leveling.
-- Activity rankings.
-- Discord mini-games.
-- Virtual gaming rewards.
+- Levels and experience.
+- Mini-games.
 - Clans and teams.
-- Clan roles and settings.
-- Clan treasury systems.
-- Achievements and trophies.
-- Daily challenges.
-- Competitions and leaderboards.
-- Tournament registration.
-- Team management.
+- Clan treasury.
+- Rankings.
+- Achievements.
 - Teammate discovery.
-- Gaming notifications.
-- External gaming integrations where technically feasible.
+- Tournaments and events.
 
-**Example projects:** Leveling Bot, Clan Bot, Tournament Bot, Gaming Hub.
+### 🎵 06. Music & Voice Systems
 
----
-
-<div align="center">
-
-## 🎵 06. Music & Voice Systems
-
-*Music controls, radio features, and voice room management*
-
-</div>
+Music controls and voice channel management.
 
 **Potential features:**
 
-- Music commands and panels.
-- Playback queues.
-- Music control buttons.
-- Radio and continuous playback with suitable hosting.
-- Automatic voice channel creation.
-- Temporary voice rooms.
-- Voice room permissions.
-- User-controlled room names.
-- Member limits.
-- Voice notifications.
+- Music panels.
+- Playback controls.
+- Music queues.
+- Internet radio with suitable sources.
+- Automatic voice rooms.
+- Custom room settings.
+- Access management.
 - Status panels.
-- Specialized voice systems for events.
 
-**Example projects:** Music Bot, Radio Bot, Auto Voice Bot.
+### 🎉 07. Events & Giveaways
 
----
-
-<div align="center">
-
-## 🎉 07. Events, Giveaways & Tournaments
-
-*Community events, competitions, and automated reminders*
-
-</div>
+Community event automation.
 
 **Potential features:**
 
 - Event creation.
 - Participant registration.
-- Event schedules.
-- Automated reminders.
-- Giveaways and winner selection.
-- Configurable entry conditions.
+- Schedules.
+- Reminders.
+- Giveaways.
+- Winner selection.
 - Tournament applications.
-- Team formation.
-- Participant lists.
-- Result rankings.
-- Event start notifications.
-- Organizer panels.
-- Completed event archives.
+- Organizer dashboards.
+- Event archives.
 
-**Example projects:** Giveaway Bot, Events Bot, Tournament Manager.
+### 📊 08. Statistics & Analytics
 
----
-
-<div align="center">
-
-## 📊 08. Statistics & Analytics
-
-*Community activity, growth, and administrative reporting*
-
-</div>
+Community activity tracking and reporting.
 
 **Potential features:**
 
-- Member statistics.
-- Activity tracking.
 - Message statistics.
-- Voice activity statistics.
-- Community growth tracking.
-- Member leaderboards.
-- Moderation reports.
-- Support analytics.
-- Virtual economy statistics.
-- Automated reports.
+- Voice activity tracking.
+- Member rankings.
+- Community growth reports.
+- Moderation analytics.
+- Support statistics.
+- Virtual economy reports.
 - Interactive dashboards.
-- Available data exports.
-- Administrative summaries.
+- Automated summaries.
 
-**Example projects:** Statistics Bot, Activity Tracker, Analytics Dashboard.
+### 🧭 09. Interactive Interfaces
 
----
+**One of BOT ZAVOD's core development areas.**
 
-<div align="center">
-
-## 🧩 09. Interactive Interfaces & Administration
-
-*User-friendly panels and centralized bot management*
-
-</div>
+Creating practical bot interfaces without requiring users to memorize numerous commands.
 
 **Potential features:**
 
 - Main navigation panels.
-- Buttons and dropdown menus.
-- Interactive forms.
-- Personal member dashboards.
-- Role management panels.
-- Administrative control centers.
-- Channel and notification settings.
-- Information cards.
-- Contextual help.
-- Action confirmation flows.
-- Permission-based access.
-- Consistent interface design.
-- Compact navigation.
-- Centralized module management.
+- Buttons and select menus.
+- Modal forms.
+- Personal dashboards.
+- Administration centers.
+- Interactive settings.
+- Contextual guidance.
+- Consistent interface styling.
 
-**Example projects:** Admin Dashboard, Community Hub, Interactive Control Center.
+### 🔗 10. Integrations & Automation
 
----
-
-<div align="center">
-
-## 🔗 10. Integrations & Automation
-
-*Connecting Discord to external services and automating workflows*
-
-</div>
+Connecting Discord to external services and automating workflows.
 
 **Potential features:**
 
 - Telegram integrations.
 - External APIs.
-- Website and service notifications.
-- Automated application processing.
-- Data exchange between systems.
-- Selected data synchronization.
-- Scheduled workflows.
-- Automated publications.
-- Event-based access management.
+- Webhooks.
+- Website notifications.
+- Automated application handling.
+- Scheduled publications.
+- Reminders.
 - Database integrations.
-- Automated reports.
-- Web dashboards when needed.
-- Webhook processing.
-- Custom business workflows.
+- Selected data synchronization.
 
-**Example projects:** Telegram–Discord Integration, Notification Bot, Workflow Automation.
+Integration feasibility depends on API availability, permissions, and third-party restrictions.
 
-Integration feasibility depends on API availability, permissions, and third-party service restrictions.
+### 💼 11. Membership & Access Management
 
----
-
-<div align="center">
-
-## 💼 11. Membership & Access Management
-
-*Subscriptions, temporary access, and service management*
-
-</div>
+Systems for controlling access to private content and events.
 
 **Potential features:**
 
-- Access role management.
-- Single-event passes.
-- Time-limited access.
-- Subscription expiration tracking.
-- Access requests.
-- Administrative order approval.
-- Expiration notifications.
-- Customer categories.
-- Service management panels.
+- Single-event access.
+- Time-limited subscriptions.
+- Access expiration.
+- Role assignment.
+- Administrative approval.
 - Access history.
-- Renewal requests.
-- External payment integrations where technically and legally feasible.
+- Expiration notifications.
+- Service management panels.
 
-**Example projects:** Membership Bot, Subscription Manager, Access Management System.
+### 🧠 12. Specialized Projects
 
----
+Custom solutions beyond standard Discord bot functionality.
 
-<div align="center">
-
-## 🧠 12. Custom Projects
-
-*Specialized solutions beyond standard Discord bot templates*
-
-</div>
-
-**BOT ZAVOD can discuss:**
+**Possible directions:**
 
 - Unique gaming mechanics.
 - Specialized administration systems.
-- Bots for themed communities.
-- Event management systems.
-- Custom registration workflows.
-- Team and organization tools.
-- Multi-step automation.
-- Individual integrations.
-- Complete Discord platforms.
-- Extensions to existing projects.
+- Multi-step workflows.
+- Private community systems.
+- Event management.
+- Custom integrations.
+- Existing project extensions.
+- Advanced Discord platforms.
 
-The development process starts with the client's requirements and then defines the appropriate architecture, interfaces, and features.
+**If your required feature is not listed, it can still be discussed individually.**
 
 ---
 
 <div align="center">
 
-## 🏗️ Project Scope
+## 🎨 Unified Design & Interactive Management
 
-*From focused tools to complete Discord systems*
+### Interface Design Is Part of the System
 
 </div>
 
-| Scope | Example |
-|:---|:---|
-| Mini | Autorole, welcome messages, a simple panel |
-| Small | Tickets, applications, giveaways |
-| Medium | Moderation, roles, support, statistics |
-| Large | Economy, profiles, clans, games, administration |
-| Custom | Unique systems, integrations, specialized workflows |
+We approach interface design as a core component of usability.
 
-These categories are illustrative, not fixed pricing packages.
+Depending on the project, development may include:
+
+- Consistent panel styling.
+- Unified navigation.
+- Interactive buttons and menus.
+- Compact information messages.
+- Permission-based access.
+- Confirmation workflows.
+- Intuitive administration tools.
+
+Each project's visual identity is developed around its requirements and Discord's supported interface capabilities.
 
 ---
 
@@ -881,28 +622,37 @@ These categories are illustrative, not fixed pricing packages.
 
 ## 🎮 Featured Project: GAME PLAY
 
-*Gaming Community · Interactive Systems · Custom Development*
+### Original Discord Gaming System
+
+**DOTA 2 · CS2 · RUST · PUBG**
 
 </div>
 
-**GAME PLAY** demonstrates how multiple Discord systems can be combined into a unified gaming community project.
+**GAME PLAY** demonstrates BOT ZAVOD's approach to combining multiple features into a unified interactive Discord system.
 
-Its documented features include:
+The project includes development areas such as:
 
-- Interactive navigation panels.
+- Interactive navigation.
 - Member profiles.
 - Virtual economy.
 - Mini-games.
 - Clans.
 - Steam verification.
 - Support systems.
-- Administration tools.
+- Music and voice functionality.
+- Administration dashboards.
+
+**A consistent visual design has already been implemented throughout the project's interfaces.**
+
+Some functionality remains under development, integration, or testing. The project showcase does not imply that every feature is currently deployed in production.
+
+**GAME PLAY is an example of custom development, not a prebuilt product for sale.**
 
 <div align="center">
 
-**[🎮 GAME PLAY Repository](https://github.com/BotZavod/gameplay-discord)**
+**[🎮 Explore GAME PLAY](https://github.com/BotZavod/gameplay-discord)**
 
-**[📸 Features & Screenshots](https://github.com/BotZavod/gameplay-discord/blob/main/docs/FEATURES.md) · [💼 BOT ZAVOD Portfolio](PORTFOLIO.md)**
+[📸 Features & Screenshots](https://github.com/BotZavod/gameplay-discord/blob/main/docs/FEATURES.md) · [💼 Portfolio](PORTFOLIO.md)
 
 </div>
 
@@ -912,28 +662,28 @@ Its documented features include:
 
 ## 📩 Discuss Your Project
 
-### Have a Discord bot idea that is not listed here?
+### From Your Idea to a Custom Discord Solution
 
 </div>
 
-Describe your requirements, expected workflow, and any examples of similar solutions. We can discuss feasibility, implementation scope, timeline, and pricing.
+Describe what you need your Discord bot to accomplish.
+
+We can discuss functionality, interface design, technical feasibility, timeline, and pricing.
+
+**Payment is made after the project terms have been agreed upon.**
 
 <div align="center">
 
-**[⚙️ Custom Development](CUSTOM-DEVELOPMENT.md) · [🛒 Contact on FunPay](https://funpay.com/users/14765417/) · [📋 How to Order](ORDER.md)**
+**[🛒 Contact BOT ZAVOD on FunPay](https://funpay.com/users/14765417/)**
 
-</div>
+[👑 Custom Development](CUSTOM-DEVELOPMENT.md) · [📋 How to Order](ORDER.md)
 
 ---
 
-<div align="center">
-
 ### ⚙️ Explore BOT ZAVOD
 
-[🏠 Home](README.md) · [🧩 Modules](MODULES.md) · [📦 Catalog](CATALOG.md) · [⚙️ Custom Development](CUSTOM-DEVELOPMENT.md) · [🎮 Portfolio](PORTFOLIO.md) · [📩 Order](ORDER.md)
+[🏠 Home](README.md) · [🧩 Modules](MODULES.md) · [💎 Services](CATALOG.md) · [👑 Custom Development](CUSTOM-DEVELOPMENT.md) · [🎮 Portfolio](PORTFOLIO.md) · [📩 Order](ORDER.md)
 
-<br>
-
-**BOT ZAVOD · Discord Bot Development · Interactive Systems · Automation**
+**BOT ZAVOD · Custom Discord Development · Interactive Systems · Automation**
 
 </div>

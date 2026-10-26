@@ -1,24 +1,18 @@
 <div align="center">
 
-<h1>💎 BOT ZAVOD | Custom Discord Bot Development</h1>
+# 💎 BOT ZAVOD | Custom Discord Bot Development
 
-<img src="assets/banners/05_custom-development-banner.png" width="100%" alt="BOT ZAVOD — Custom Discord Bot Development">
+<img src="assets/banners/05_custom-development-banner.png" width="100%" alt="BOT ZAVOD | Custom Discord Bot Development">
 
-<br>
+**CUSTOM DISCORD BOTS · INTERACTIVE SYSTEMS · AUTOMATION**
 
-**CUSTOM DISCORD BOTS · INTERACTIVE SYSTEMS · AUTOMATION · PYTHON**
+### Индивидуальная разработка Discord-ботов под ваши задачи
 
-### Ваша идея. Индивидуальная архитектура. Собственный Discord-проект.
-
-*Your idea. Custom architecture. Your own Discord solution.*
-
-<br>
+*Your Idea · Unique Design · Custom Development*
 
 [🇷🇺 Русский](#русская-версия) · [🇬🇧 English](#english-version)
 
-<br>
-
-[🏠 Главная](README.md) · [⚙️ Возможности](CAPABILITIES.md) · [🧩 Модули](MODULES.md) · [📦 Каталог](CATALOG.md) · [🎮 Портфолио](PORTFOLIO.md) · [📩 Заказ](ORDER.md)
+[🏠 Главная](README.md) · [⚙️ Возможности](CAPABILITIES.md) · [🧩 Модули](MODULES.md) · [💎 Каталог услуг](CATALOG.md) · [🎮 Портфолио](PORTFOLIO.md) · [📩 Заказ](ORDER.md)
 
 </div>
 
@@ -30,109 +24,105 @@
 
 ## 🇷🇺 Индивидуальная разработка Discord-ботов
 
-### Не просто бот. Решение под ваш проект.
+### От конкретной задачи до полноценной Discord-системы
 
 </div>
 
-**BOT ZAVOD** занимается разработкой Discord-ботов, интерактивных панелей, систем автоматизации и комплексных решений на Python.
+**BOT ZAVOD** разрабатывает Discord-ботов для игровых сообществ, частных серверов и других проектов.
 
-Каждый Discord-сервер имеет собственные задачи. Одному сообществу нужна простая система заявок, другому требуются экономика, роли и игровые механики, а третьему необходима полноценная система с индивидуальными интерфейсами и административным управлением.
+Мы создаём решения под индивидуальное техническое задание: от небольших инструментов автоматизации до многофункциональных систем с единым дизайном, интерактивными панелями и административным управлением.
 
-**Мы предлагаем разработку под конкретные требования, а не обязательный выбор готового набора функций.**
+**Вы заказываете необходимые функции, а не фиксированный набор модулей.**
 
-Вы можете описать идею своими словами, показать примеры понравившихся интерфейсов или предоставить подробное техническое задание.
+Для начала достаточно описать идею своими словами. Подробное техническое задание можно сформировать в процессе обсуждения.
 
 ---
 
 <div align="center">
 
-## 🏗️ Масштаб разработки
+## 🏗️ Направления разработки
 
-*От небольшого инструмента до комплексной Discord-экосистемы*
+### Два формата работы. Индивидуальный подход к каждому проекту.
 
 </div>
 
-### 01. MINI PROJECT
+### 🚀 01. STANDARD DEVELOPMENT
 
-**Небольшой бот под конкретную задачу**
+**Discord-бот для конкретных задач**
 
-Подходит для автоматизации одной или нескольких простых операций.
+Подходит для небольших и средних проектов, которым требуется автоматизация отдельных процессов или несколько согласованных функций.
 
-**Примеры:**
+**Примеры возможностей:**
 
-- Приветствие участников.
-- Автоматическая выдача ролей.
-- Подтверждение правил.
-- Простая система уведомлений.
-- Панель выбора ролей.
-- Небольшая система заявок.
+- 👋 Приветствие новых участников.
+- 🎭 Автоматическая выдача ролей.
+- 🔐 Принятие правил и простая верификация.
+- 📢 Уведомления и объявления.
+- 🛡️ Базовая модерация и журналы действий.
+- 🎫 Тикеты, заявки и анкеты.
+- 🎨 Сообщения с кнопками и меню.
+- ⚙️ Небольшие интеграции и автоматизированные сценарии.
 
-**Результат:** компактное решение без лишних функций.
+**Особенности разработки:**
 
-### 02. FUNCTIONAL PROJECT
+- Функционал под конкретное ТЗ.
+- Отсутствие обязательных дополнительных модулей.
+- Понятная настройка.
+- Возможность дальнейшего расширения.
+- Передача согласованных файлов и инструкций.
 
-**Полноценный бот с несколькими модулями**
+**Результат:** практичный Discord-бот, решающий поставленные задачи без избыточной сложности.
 
-Подходит для серверов, которым необходим набор связанных возможностей.
+> Перечисленные функции являются примерами. Их количество и сочетание определяются индивидуально.
 
-**Примеры:**
+**[🚀 Обсудить разработку на FunPay](https://funpay.com/users/14765417/)**
 
-- Модерация и журналы событий.
-- Тикеты и заявки.
-- Верификация участников.
-- Управление ролями.
-- Розыгрыши и мероприятия.
-- Уровни и активность.
+---
 
-**Результат:** функциональный бот с согласованной логикой управления.
+### 👑 02. PREMIUM DEVELOPMENT
 
-### 03. ADVANCED PROJECT
+**Индивидуальная Discord-система с расширенными возможностями**
 
-**Расширенная Discord-система**
-
-Для проектов с большим количеством функций, пользовательскими данными и интерактивными интерфейсами.
-
-**Примеры:**
-
-- Профили участников.
-- Экономика и магазины.
-- Игровые механики.
-- Кланы и рейтинги.
-- Административные панели.
-- Система достижений.
-- Внутренние сервисы сообщества.
-
-**Результат:** объединённая система, в которой разные модули работают совместно.
-
-### 04. CUSTOM ECOSYSTEM
-
-**Комплексная платформа по индивидуальному ТЗ**
-
-Для нестандартных проектов, которым требуется собственная архитектура.
+Подходит для игровых сообществ, развивающихся серверов и нестандартных проектов, которым требуется комплексная логика и удобное управление.
 
 **Возможные направления:**
 
-- Несколько взаимосвязанных подсистем.
-- Индивидуальная структура базы данных.
-- Разделение административных прав.
-- Интеграции с внешними сервисами.
-- Автоматизация сложных процессов.
-- Управление доступом.
-- Расписания и мероприятия.
-- Уникальные интерфейсы.
-- Поэтапное расширение проекта.
+- 🎨 Индивидуальный визуальный стиль.
+- 🧭 Единая интерактивная навигация.
+- ⚙️ Административные центры.
+- 👤 Профили и личные кабинеты участников.
+- 💰 Экономика, магазины и виртуальная валюта.
+- 🎮 Мини-игры, рейтинги и достижения.
+- 🏆 Кланы и игровые сообщества.
+- 🛡️ Модерация, безопасность и верификация.
+- 🎫 Поддержка и обработка обращений.
+- 📊 Статистика и автоматические уведомления.
+- 🔗 Интеграции с внешними сервисами.
+- 🗃️ Хранение данных и взаимосвязанные модули.
 
-**Результат:** специализированное решение, разработанное под задачи заказчика.
+**Особенности разработки:**
 
-> Масштаб проекта определяется не количеством команд, а сложностью логики, интерфейсов, интеграций и требованиями к надёжности.
+- Индивидуальная архитектура проекта.
+- Согласованный дизайн интерфейсов.
+- Панели для участников и администрации.
+- Продуманная система прав доступа.
+- Взаимодействие нескольких модулей.
+- Проверка основных сценариев работы.
+- Возможность дальнейшего развития проекта.
+
+**Результат:** специализированная Discord-система, объединяющая согласованные функции в едином интерфейсе.
+
+> PREMIUM не означает автоматическое включение всех перечисленных возможностей. Итоговый состав определяется ТЗ, бюджетом и технической осуществимостью.
+
+**[👑 Обсудить индивидуальный проект](https://funpay.com/users/14765417/)**
 
 ---
 
 <div align="center">
 
-## ⚙️ Какие функции можно реализовать?
+## ⚙️ Возможности индивидуальной разработки
 
-### Возможности индивидуальной разработки
+### Функционал под задачи вашего сервера
 
 </div>
 
@@ -141,23 +131,19 @@
 | 🛡️ Безопасность | Модерация, Anti-Nuke, фильтры, журналы |
 | 👥 Участники | Профили, роли, регистрация, верификация |
 | 🎫 Поддержка | Тикеты, заявки, анкеты, обращения |
-| 🎮 Игровые системы | Мини-игры, кланы, рейтинги, турниры |
+| 🎮 Игровые системы | Мини-игры, кланы, рейтинги, мероприятия |
 | 🪙 Экономика | Балансы, магазины, предметы, награды |
-| 🎵 Голосовые системы | Музыка, радио, временные комнаты |
-| 🎉 Мероприятия | Розыгрыши, расписания, регистрация |
-| 📊 Аналитика | Статистика, отчёты, информационные панели |
+| 🎵 Голосовые системы | Музыка, радио, временные голосовые комнаты |
+| 🎉 Сообщество | Розыгрыши, расписания, объявления |
+| 📊 Статистика | Активность, отчёты, информационные панели |
 | 🧩 Интерфейсы | Кнопки, меню, формы, административные центры |
 | 🔗 Интеграции | Telegram, API, вебхуки, внешние сервисы |
-| 💼 Управление доступом | Подписки, роли доступа, сроки действия |
-| 🏗️ Автоматизация | Индивидуальные процессы и сценарии |
+| 💼 Доступ | Роли доступа, подписки, сроки действия |
+| 🏗️ Автоматизация | Индивидуальные сценарии и процессы |
 
-<div align="center">
+**[⚙️ Полная библиотека возможностей](CAPABILITIES.md) · [🧩 Модули](MODULES.md)**
 
-**[⚙️ Открыть полную библиотеку возможностей](CAPABILITIES.md)**
-
-</div>
-
-Если нужной функции нет в списке, её можно обсудить отдельно.
+Если необходимой функции нет в списке, возможность её реализации можно обсудить отдельно.
 
 ---
 
@@ -165,11 +151,11 @@
 
 ## 🎨 Индивидуальный дизайн интерфейсов
 
-### Удобство управления имеет значение
+### Единый стиль. Понятная навигация. Удобное управление.
 
 </div>
 
-Discord-бот может быть не просто набором команд, а полноценной интерактивной системой с понятной навигацией.
+Одно из ключевых направлений BOT ZAVOD: создание Discord-ботов, которыми удобно пользоваться через интерактивные элементы.
 
 **В зависимости от проекта можно разработать:**
 
@@ -179,22 +165,27 @@ Discord-бот может быть не просто набором команд
 - Административный центр.
 - Магазин и экономические интерфейсы.
 - Панели заявок и поддержки.
-- Систему подтверждений.
+- Формы ввода данных.
+- Подтверждения важных действий.
 - Информационные карточки.
 - Разделы статистики.
 - Единый визуальный стиль.
 
 ### Принципы оформления
 
-- **Единая композиция:** взаимосвязанные панели выглядят как части одной системы.
-- **Понятная навигация:** пользователь видит доступные действия.
-- **Разделение прав:** административные функции доступны только уполномоченным участникам.
-- **Подтверждения:** важные операции могут требовать дополнительного подтверждения.
-- **Индивидуальность:** интерфейс адаптируется к тематике и задачам сообщества.
+**🎨 Последовательность:** связанные панели оформляются в едином стиле.
 
-Для реализации используются поддерживаемые Discord-инструменты: сообщения, embeds, кнопки, выпадающие меню и модальные формы.
+**🧭 Навигация:** участник легко находит необходимые функции.
 
-**Дизайн разрабатывается с учётом технических ограничений Discord.**
+**🔐 Права доступа:** административные инструменты доступны уполномоченным пользователям.
+
+**✅ Подтверждения:** важные операции могут требовать дополнительного подтверждения.
+
+**⚙️ Практичность:** оформление помогает пользоваться ботом, а не усложняет взаимодействие.
+
+Для реализации используются поддерживаемые возможности Discord: сообщения, embeds, кнопки, выпадающие меню и модальные формы.
+
+**Дизайн учитывает технические ограничения Discord.**
 
 ---
 
@@ -202,15 +193,15 @@ Discord-бот может быть не просто набором команд
 
 ## 🎮 Реальный пример: GAME PLAY
 
-### Комплексная система для игрового сообщества
+### Авторская система для игрового сообщества
 
-*Gaming Community · Interactive Systems · Custom Development*
+**DOTA 2 · CS2 · RUST · PUBG**
 
 </div>
 
-**GAME PLAY** — собственный проект, демонстрирующий подход BOT ZAVOD к созданию многофункциональных Discord-систем.
+**GAME PLAY** демонстрирует подход BOT ZAVOD к разработке Discord-систем с единым визуальным стилем и интерактивным управлением.
 
-В нём объединены:
+В проекте представлены и разрабатываются:
 
 - Интерактивная навигация.
 - Профили игроков.
@@ -219,27 +210,24 @@ Discord-бот может быть не просто набором команд
 - Кланы.
 - Steam-верификация.
 - Поддержка участников.
+- Музыкальные возможности.
 - Административные инструменты.
 
 <div align="center">
 
-<a href="https://github.com/BotZavod/gameplay-discord/blob/main/assets/screenshots/01-navigation.png">
-<img src="https://raw.githubusercontent.com/BotZavod/gameplay-discord/main/assets/screenshots/01-navigation.png" width="420" alt="GAME PLAY — Interactive Navigation">
+<a href="https://github.com/BotZavod/gameplay-discord">
+<img src="https://raw.githubusercontent.com/BotZavod/gameplay-discord/main/assets/screenshots/01-navigation.png" width="420" alt="GAME PLAY | Interactive Navigation">
 </a>
-
-<br>
 
 *Пример интерактивной навигации GAME PLAY*
 
-<br>
-
 **[🎮 Репозиторий GAME PLAY](https://github.com/BotZavod/gameplay-discord)**
 
-**[📸 Все функции и интерфейсы](https://github.com/BotZavod/gameplay-discord/blob/main/docs/FEATURES.md) · [💼 Портфолио BOT ZAVOD](PORTFOLIO.md)**
+**[📸 Функции и интерфейсы](https://github.com/BotZavod/gameplay-discord/blob/main/docs/FEATURES.md) · [💼 Портфолио](PORTFOLIO.md)**
 
 </div>
 
-> GAME PLAY демонстрирует конкретный подход к разработке. Это не универсальный шаблон, который автоматически переносится в каждый заказ.
+> GAME PLAY является примером собственной разработки, а не готовым продуктом для продажи. Отдельные функции проекта находятся на разных стадиях реализации и проверки.
 
 ---
 
@@ -251,9 +239,9 @@ Discord-бот может быть не просто набором команд
 
 </div>
 
-При необходимости Discord-бот может взаимодействовать с другими сервисами.
+При необходимости можно обсудить взаимодействие Discord-бота с другими сервисами.
 
-**Возможные интеграции:**
+**Возможные направления:**
 
 - Telegram.
 - Внешние API.
@@ -264,34 +252,34 @@ Discord-бот может быть не просто набором команд
 - Внешние панели управления.
 - Поддерживаемые игровые сервисы.
 
-**Каждая интеграция оценивается отдельно.** Реализация зависит от наличия доступных интерфейсов, необходимых разрешений и правил сторонних платформ.
+**Каждая интеграция оценивается отдельно.** Возможность реализации зависит от доступных API, разрешений и правил сторонних платформ.
 
 ---
 
 <div align="center">
 
-## 🔄 Развитие существующего проекта
+## 🔄 Доработка существующих Discord-ботов
 
-### Не всегда нужно создавать нового бота
+### Не всегда нужно создавать проект заново
 
 </div>
 
-В некоторых случаях возможно расширение уже существующего решения.
+Помимо разработки с нуля можно обсудить изменение уже существующего бота.
 
-**Варианты работ:**
+**Примеры работ:**
 
-- Добавление новой функции.
-- Переработка отдельного модуля.
-- Создание интерактивной панели.
+- Добавление новых функций.
+- Доработка отдельных модулей.
+- Создание интерактивных панелей.
 - Улучшение структуры проекта.
 - Подключение базы данных.
-- Исправление конкретной проблемы.
-- Оптимизация отдельных процессов.
+- Исправление конкретных ошибок.
+- Оптимизация процессов.
 - Подготовка к дальнейшему расширению.
 
-Перед изменением существующего кода необходимо оценить его архитектуру, зависимости и совместимость.
+Перед началом необходимо изучить существующий код, зависимости и совместимость.
 
-**Требования к сохранению текущих данных и поведения согласовываются до начала работ.**
+**Сохранение текущих данных и функциональности согласовывается отдельно.**
 
 ---
 
@@ -305,37 +293,37 @@ Discord-бот может быть не просто набором команд
 
 | Этап | Что происходит |
 |:---|:---|
-| **01. Обсуждение** | Вы описываете задачу, функции и особенности сервера |
-| **02. Требования** | Уточняются сценарии, права, интерфейсы и интеграции |
-| **03. Оценка** | Определяются техническая возможность, сроки и стоимость |
-| **04. Разработка** | Реализуются согласованные функции |
-| **05. Проверка** | Тестируются основные сценарии и ограничения доступа |
-| **06. Передача** | Предоставляются согласованные файлы и инструкции |
-| **07. Развитие** | При необходимости обсуждаются дополнительные работы |
+| **01. Обсуждение** | Вы описываете идею и необходимые функции |
+| **02. Требования** | Уточняем сценарии, интерфейсы и права доступа |
+| **03. Согласование** | Определяем стоимость, сроки и объём работ |
+| **04. Заказ** | Оформляем заказ на согласованных условиях |
+| **05. Разработка** | Реализуем утверждённый функционал |
+| **06. Тестирование** | Проверяем основные сценарии работы |
+| **07. Передача** | Предоставляем согласованные файлы и инструкции |
 
-Объём тестирования, состав поставки и условия сопровождения определяются индивидуально.
+Дополнительные функции, изменения ТЗ и дальнейшее сопровождение обсуждаются отдельно.
 
 ---
 
 <div align="center">
 
-## 📋 Что желательно указать в заявке?
+## 📋 Что указать в заявке?
 
-### Необязательно иметь готовое техническое задание
+### Готовое техническое задание необязательно
 
 </div>
 
-Для предварительного обсуждения полезно сообщить:
+Для предварительного обсуждения желательно сообщить:
 
-1. **Назначение бота.** Игровой сервер, сообщество, поддержка, коммерческий проект или другая задача.
-2. **Необходимые функции.** Можно описать своими словами.
-3. **Примеры.** Скриншоты, ссылки, похожие интерфейсы.
-4. **Пожелания к дизайну.** Панели, кнопки, меню, оформление.
-5. **Интеграции.** Telegram, API, сайты или другие сервисы.
-6. **Текущее состояние.** Новый проект или доработка существующего бота.
-7. **Среда запуска.** Компьютер, VPS или другая инфраструктура.
+1. **Назначение:** для какого Discord-сервера нужен бот.
+2. **Функции:** какие задачи необходимо автоматизировать.
+3. **Примеры:** скриншоты или ссылки на понравившиеся интерфейсы.
+4. **Дизайн:** пожелания к оформлению панелей и меню.
+5. **Интеграции:** какие внешние сервисы необходимо подключить.
+6. **Состояние проекта:** новый бот или доработка существующего.
+7. **Запуск:** Windows, Linux VPS или другая инфраструктура.
 
-Если подробного ТЗ нет, структуру требований можно сформировать в процессе обсуждения.
+Если подробного ТЗ нет, его можно сформировать совместно в процессе обсуждения.
 
 ---
 
@@ -347,20 +335,45 @@ Discord-бот может быть не просто набором команд
 
 </div>
 
-На объём работ влияют:
+На стоимость и сроки влияют:
 
 - Количество и сложность функций.
-- Необходимость базы данных.
-- Уровень интерактивности.
+- Требования к интерфейсу.
+- Использование баз данных.
 - Внешние интеграции.
 - Административные инструменты.
-- Требования к тестированию.
-- Необходимость доработки существующего проекта.
-- Особенности развёртывания и хостинга.
+- Необходимый объём тестирования.
+- Доработка существующего проекта.
+- Особенности установки и запуска.
 
-Небольшой бот и комплексная Discord-платформа требуют разного объёма разработки.
+**STANDARD DEVELOPMENT** подходит для небольших задач и ограниченного набора функций.
 
-**Поэтому для индивидуальных проектов нет единой фиксированной стоимости.** Сроки и условия обсуждаются после уточнения требований.
+**PREMIUM DEVELOPMENT** предназначен для более сложных индивидуальных систем.
+
+Разделение условное: окончательная стоимость определяется не названием направления, а согласованным объёмом работ.
+
+**Стоимость, сроки и техническое задание согласовываются до оплаты.**
+
+---
+
+<div align="center">
+
+## 📦 Что получает заказчик?
+
+### Состав поставки согласовывается заранее
+
+</div>
+
+В зависимости от заказа предоставляются:
+
+- Исходный код Discord-бота.
+- Необходимые файлы проекта.
+- Инструкция по установке.
+- Настройка согласованных функций.
+- Помощь с первоначальным запуском.
+- Дополнительная документация и поддержка по договорённости.
+
+**Хостинг и круглосуточная работа не включаются автоматически.**
 
 ---
 
@@ -370,19 +383,15 @@ Discord-бот может быть не просто набором команд
 
 ### Есть идея для Discord-бота?
 
-**От небольшого инструмента до комплексной системы с уникальными функциями.**
+**От небольшой автоматизации до комплексной системы с уникальным интерфейсом.**
 
-Опишите задачу, а мы обсудим подходящий вариант реализации.
-
-<br>
+Расскажите о задаче, и мы обсудим подходящий вариант реализации.
 
 **[🛒 Связаться через FunPay](https://funpay.com/users/14765417/)**
 
 **[📋 Как оформить заказ](ORDER.md)**
 
-<br>
-
-[⚙️ Возможности](CAPABILITIES.md) · [🧩 Модули](MODULES.md) · [📦 Готовые боты](CATALOG.md)
+[⚙️ Возможности](CAPABILITIES.md) · [🧩 Модули](MODULES.md) · [💎 Каталог услуг](CATALOG.md)
 
 </div>
 
@@ -398,89 +407,93 @@ Discord-бот может быть не просто набором команд
 
 </div>
 
-**BOT ZAVOD** develops custom Discord bots, interactive interfaces, automation tools, and integrated community systems using Python.
+**BOT ZAVOD** develops custom Discord bots for gaming communities, private servers, and other projects.
 
-Every community has different needs. Some projects require a small bot for one task, while others need multiple connected modules, persistent data, custom interfaces, and advanced administration.
+From focused automation tools to advanced systems with unique visual design, interactive panels, and administration dashboards.
 
-**Development is tailored to your requirements rather than limited to a predefined package.**
+**You order the functionality your project needs, not a fixed package of features.**
 
-You can describe your idea, share reference examples, or provide a detailed technical specification.
+A complete technical specification is not required for the initial discussion. You can start by describing your idea.
 
 ---
 
 <div align="center">
 
-## 🏗️ Project Types
+## 🏗️ Development Options
 
-*From focused automation to complete Discord ecosystems*
+### Two Approaches. Every Project Is Custom.
 
 </div>
 
-### 01. MINI PROJECT
+### 🚀 01. STANDARD DEVELOPMENT
 
-**A focused bot for a specific task**
+**Discord Bots for Specific Tasks**
 
-Examples:
+Suitable for small and medium projects that require practical automation and a focused set of features.
 
-- Welcome messages.
-- Automatic role assignment.
-- Rules acceptance.
-- Simple notifications.
-- Role selection panels.
-- Basic application systems.
+**Possible features:**
 
-**Outcome:** a compact solution focused on the required functionality.
+- 👋 Welcome messages.
+- 🎭 Automatic role assignment.
+- 🔐 Rules acceptance and basic verification.
+- 📢 Notifications and announcements.
+- 🛡️ Basic moderation and logs.
+- 🎫 Tickets, applications, and forms.
+- 🎨 Interactive messages and menus.
+- ⚙️ Small integrations and automation workflows.
 
-### 02. FUNCTIONAL PROJECT
+**Development benefits:**
 
-**A multifunctional bot with connected features**
+- Features tailored to your requirements.
+- No mandatory additional modules.
+- Straightforward configuration.
+- Options for future expansion.
+- Agreed project files and documentation.
 
-Examples:
+**Outcome:** a practical Discord bot designed to solve specific tasks without unnecessary complexity.
 
-- Moderation and logs.
-- Ticket systems.
-- Member verification.
-- Role management.
-- Giveaways and events.
-- Leveling and activity tracking.
+> Listed features are examples. The final scope is agreed upon individually.
 
-**Outcome:** a functional Discord bot with consistent workflows.
+**[🚀 Discuss Your Project on FunPay](https://funpay.com/users/14765417/)**
 
-### 03. ADVANCED PROJECT
+---
 
-**An integrated Discord system**
+### 👑 02. PREMIUM DEVELOPMENT
 
-Examples:
+**Advanced Custom Discord Systems**
 
-- Member profiles.
-- Virtual economy and shops.
-- Gaming mechanics.
-- Clans and leaderboards.
-- Administrative dashboards.
-- Achievements.
-- Community services.
+Designed for gaming communities, growing Discord servers, and projects requiring connected modules and interactive administration.
 
-**Outcome:** an integrated solution with modules that work together.
+**Possible features:**
 
-### 04. CUSTOM ECOSYSTEM
+- 🎨 Unique visual design.
+- 🧭 Unified interactive navigation.
+- ⚙️ Administration dashboards.
+- 👤 Member profiles.
+- 💰 Virtual economy and shops.
+- 🎮 Mini-games, rankings, and achievements.
+- 🏆 Clan management.
+- 🛡️ Moderation, security, and verification.
+- 🎫 Support and application systems.
+- 📊 Statistics and notifications.
+- 🔗 External integrations.
+- 🗃️ Persistent data and connected modules.
 
-**A specialized platform built around individual requirements**
+**Development benefits:**
 
-Potential components:
+- Custom project architecture.
+- Consistent interface design.
+- Interactive member and staff panels.
+- Permission-based administration.
+- Integrated functional modules.
+- Testing of relevant workflows.
+- Opportunities for future expansion.
 
-- Multiple connected subsystems.
-- Custom database architecture.
-- Administrative permission levels.
-- External integrations.
-- Complex automation.
-- Access management.
-- Event schedules.
-- Custom interfaces.
-- Future expansion.
+**Outcome:** a custom Discord system with connected functionality and a consistent user experience.
 
-**Outcome:** a tailored system designed around the client's workflows.
+> PREMIUM does not automatically include every listed feature. The final scope depends on requirements, budget, and technical feasibility.
 
-> Project complexity depends on architecture, workflows, integrations, and reliability requirements, not simply the number of commands.
+**[👑 Discuss an Advanced Project](https://funpay.com/users/14765417/)**
 
 ---
 
@@ -488,7 +501,7 @@ Potential components:
 
 ## ⚙️ Development Capabilities
 
-### Features tailored to your project
+### Features Tailored to Your Community
 
 </div>
 
@@ -497,23 +510,19 @@ Potential components:
 | 🛡️ Security | Moderation, Anti-Nuke, filters, logs |
 | 👥 Members | Profiles, roles, registration, verification |
 | 🎫 Support | Tickets, applications, forms |
-| 🎮 Gaming | Mini-games, clans, rankings, tournaments |
+| 🎮 Gaming | Mini-games, clans, rankings, events |
 | 🪙 Economy | Balances, shops, items, rewards |
-| 🎵 Voice | Music, radio, temporary voice channels |
-| 🎉 Events | Giveaways, schedules, registration |
-| 📊 Analytics | Statistics, reports, dashboards |
+| 🎵 Voice | Music, radio, temporary voice rooms |
+| 🎉 Community | Giveaways, schedules, announcements |
+| 📊 Statistics | Activity tracking, reports, dashboards |
 | 🧩 Interfaces | Buttons, menus, forms, admin centers |
 | 🔗 Integrations | Telegram, APIs, webhooks |
-| 💼 Membership | Subscriptions, access roles, expiration |
-| 🏗️ Automation | Custom workflows and event processing |
+| 💼 Access | Access roles, subscriptions, expiration |
+| 🏗️ Automation | Custom workflows and processes |
 
-<div align="center">
+**[⚙️ Explore Capabilities](CAPABILITIES.md) · [🧩 Development Modules](MODULES.md)**
 
-**[⚙️ Explore All Capabilities](CAPABILITIES.md)**
-
-</div>
-
-Additional ideas can be discussed even if they are not listed.
+Additional features can be discussed individually.
 
 ---
 
@@ -521,18 +530,21 @@ Additional ideas can be discussed even if they are not listed.
 
 ## 🎨 Interactive Interface Design
 
-### A consistent and user-friendly experience
+### Consistent Design. Intuitive Navigation.
 
 </div>
 
-Depending on the project, we can develop:
+One of BOT ZAVOD's main areas of work is creating Discord systems with practical interactive interfaces.
 
-- Navigation panels.
+**Depending on the project, we can develop:**
+
+- Main navigation panels.
 - Member profiles.
 - Role management interfaces.
-- Administrative dashboards.
+- Administration dashboards.
 - Economy and shop panels.
 - Support interfaces.
+- Input forms.
 - Confirmation workflows.
 - Information cards.
 - Statistics panels.
@@ -540,15 +552,19 @@ Depending on the project, we can develop:
 
 ### Design Principles
 
-- **Consistency:** connected panels follow a unified design.
-- **Navigation:** users can find relevant actions easily.
-- **Permissions:** administrative features are restricted appropriately.
-- **Confirmations:** important actions can require explicit confirmation.
-- **Customization:** interfaces match the community's needs and theme.
+**🎨 Consistency:** connected panels share a unified visual style.
+
+**🧭 Navigation:** users can easily find relevant actions.
+
+**🔐 Permissions:** administration tools are restricted to authorized users.
+
+**✅ Confirmations:** important actions can require additional confirmation.
+
+**⚙️ Practicality:** interface design makes the bot easier to use.
 
 Interfaces use supported Discord features, including messages, embeds, buttons, select menus, and modal forms.
 
-All designs are subject to Discord's technical limitations.
+**All designs are subject to Discord's technical limitations.**
 
 ---
 
@@ -556,13 +572,15 @@ All designs are subject to Discord's technical limitations.
 
 ## 🎮 Featured Project: GAME PLAY
 
-### Interactive Gaming Community System
+### Custom Gaming Community System
+
+**DOTA 2 · CS2 · RUST · PUBG**
 
 </div>
 
-**GAME PLAY** is an example of a multifunctional Discord project with connected systems and interactive interfaces.
+**GAME PLAY** demonstrates BOT ZAVOD's approach to unified visual design and interactive Discord systems.
 
-Its documented features include:
+The project includes implemented and developing features such as:
 
 - Interactive navigation.
 - Player profiles.
@@ -571,23 +589,24 @@ Its documented features include:
 - Clans.
 - Steam verification.
 - Member support.
+- Music features.
 - Administration tools.
 
 <div align="center">
 
-<a href="https://github.com/BotZavod/gameplay-discord/blob/main/assets/screenshots/01-navigation.png">
-<img src="https://raw.githubusercontent.com/BotZavod/gameplay-discord/main/assets/screenshots/01-navigation.png" width="420" alt="GAME PLAY — Interactive Navigation">
+<a href="https://github.com/BotZavod/gameplay-discord">
+<img src="https://raw.githubusercontent.com/BotZavod/gameplay-discord/main/assets/screenshots/01-navigation.png" width="420" alt="GAME PLAY | Interactive Navigation">
 </a>
 
-<br>
+*GAME PLAY interactive navigation example*
 
 **[🎮 GAME PLAY Repository](https://github.com/BotZavod/gameplay-discord)**
 
-**[📸 Features & Screenshots](https://github.com/BotZavod/gameplay-discord/blob/main/docs/FEATURES.md) · [💼 BOT ZAVOD Portfolio](PORTFOLIO.md)**
+**[📸 Features & Screenshots](https://github.com/BotZavod/gameplay-discord/blob/main/docs/FEATURES.md) · [💼 Portfolio](PORTFOLIO.md)**
 
 </div>
 
-GAME PLAY demonstrates an implementation approach, not a fixed template automatically reused for every client.
+> GAME PLAY is an original development project, not a ready-to-use product for sale. Individual features are at different stages of development and testing.
 
 ---
 
@@ -595,11 +614,11 @@ GAME PLAY demonstrates an implementation approach, not a fixed template automati
 
 ## 🔗 Integrations & External Services
 
-### Connecting Discord to other systems
+### Connecting Discord to Other Systems
 
 </div>
 
-Custom projects may integrate with:
+Custom projects may include integrations with:
 
 - Telegram.
 - External APIs.
@@ -607,10 +626,10 @@ Custom projects may integrate with:
 - Databases.
 - Websites and web services.
 - Notification systems.
-- External dashboards.
+- External administration dashboards.
 - Supported gaming services.
 
-Feasibility depends on available interfaces, permissions, access, and third-party service policies.
+**Each integration is evaluated individually.** Feasibility depends on available APIs, permissions, and third-party service policies.
 
 ---
 
@@ -618,7 +637,7 @@ Feasibility depends on available interfaces, permissions, access, and third-part
 
 ## 🔄 Existing Bot Development
 
-### Extend and improve existing projects
+### Extend or Improve an Existing Project
 
 </div>
 
@@ -631,11 +650,11 @@ Depending on source code availability and compatibility, we can discuss:
 - Integrating databases.
 - Fixing specific issues.
 - Optimizing workflows.
-- Preparing a bot for future expansion.
+- Preparing for future expansion.
 
 Existing projects require a technical review before changes are agreed upon.
 
-Data preservation and compatibility requirements should be defined before development begins.
+**Data preservation and compatibility requirements must be discussed before development begins.**
 
 ---
 
@@ -643,21 +662,21 @@ Data preservation and compatibility requirements should be defined before develo
 
 ## 🧭 Development Process
 
-### From concept to delivery
+### From Concept to Delivery
 
 </div>
 
 | Stage | Description |
 |:---|:---|
-| **01. Discussion** | Understand the goals and required functionality |
-| **02. Requirements** | Define workflows, permissions, interfaces, and integrations |
-| **03. Estimate** | Assess feasibility, scope, timeline, and pricing |
-| **04. Development** | Implement the agreed functionality |
-| **05. Testing** | Verify relevant workflows and access restrictions |
-| **06. Delivery** | Provide the agreed files and setup materials |
-| **07. Expansion** | Discuss future improvements if needed |
+| **01. Discussion** | Describe your idea and required functionality |
+| **02. Requirements** | Define workflows, interfaces, and permissions |
+| **03. Agreement** | Confirm scope, pricing, and timeline |
+| **04. Order** | Place the order under the agreed terms |
+| **05. Development** | Implement the approved features |
+| **06. Testing** | Verify relevant workflows |
+| **07. Delivery** | Receive the agreed project files and instructions |
 
-Testing scope, delivery contents, and support terms are defined individually.
+Additional features, specification changes, and ongoing support are discussed separately.
 
 ---
 
@@ -665,21 +684,21 @@ Testing scope, delivery contents, and support terms are defined individually.
 
 ## 📋 What to Include in Your Request
 
-### A complete specification is not required
+### A Complete Specification Is Not Required
 
 </div>
 
 For an initial discussion, it helps to provide:
 
-1. **Purpose:** gaming community, support, business project, or another use case.
-2. **Features:** describe the functionality you need.
-3. **References:** screenshots, links, or similar interfaces.
-4. **Design preferences:** panels, buttons, menus, and visual style.
-5. **Integrations:** Telegram, APIs, websites, or other services.
-6. **Existing project:** new bot or modification of an existing one.
-7. **Hosting:** local computer, VPS, or another environment.
+1. **Purpose:** what the bot will be used for.
+2. **Features:** which tasks it should automate.
+3. **References:** screenshots or links to similar interfaces.
+4. **Design:** preferred visual style, panels, and menus.
+5. **Integrations:** required external services.
+6. **Project status:** new bot or modification of an existing one.
+7. **Hosting:** Windows, Linux VPS, or another environment.
 
-We can help clarify the requirements during the discussion.
+Requirements can be clarified during the discussion.
 
 ---
 
@@ -687,58 +706,73 @@ We can help clarify the requirements during the discussion.
 
 ## 💬 Pricing & Timeline
 
-### Individually estimated projects
+### Every Project Is Estimated Individually
 
 </div>
 
 Project scope depends on:
 
 - Number and complexity of features.
-- Database requirements.
-- Interface complexity.
+- Interface requirements.
+- Database usage.
 - External integrations.
-- Administrative functionality.
+- Administration tools.
 - Testing requirements.
 - Existing code modifications.
 - Deployment and hosting needs.
 
-A small bot and a complete Discord platform require different levels of development effort.
+**STANDARD DEVELOPMENT** focuses on smaller projects and specific tasks.
 
-**Custom projects do not have one fixed price.** Pricing and delivery timelines are discussed after the requirements are clarified.
+**PREMIUM DEVELOPMENT** covers more advanced custom systems.
+
+These categories describe typical project complexity. The final price depends on the agreed scope, not the category name alone.
+
+**Pricing, delivery timelines, and requirements are agreed upon before payment.**
 
 ---
 
 <div align="center">
 
-## 📩 Discuss Your Project
+## 📦 Project Deliverables
 
-### Have an idea for a Discord bot?
+### Agreed Before Development Begins
 
-**From a focused tool to a complex system with custom functionality.**
+</div>
 
-Describe your requirements and let's discuss a suitable implementation.
+Depending on the agreement, delivery may include:
 
-<br>
+- Discord bot source code.
+- Required project files.
+- Setup instructions.
+- Configuration of agreed features.
+- Initial installation assistance.
+- Additional documentation and support.
+
+**Hosting and continuous 24/7 operation are not automatically included.**
+
+---
+
+<div align="center">
+
+## 📩 Start Your Project
+
+### Have an Idea for a Discord Bot?
+
+**From focused automation to an advanced custom system with interactive interfaces.**
+
+Describe your requirements, and we can discuss a suitable implementation.
 
 **[🛒 Contact on FunPay](https://funpay.com/users/14765417/)**
 
 **[📋 How to Order](ORDER.md)**
 
-<br>
-
-[⚙️ Capabilities](CAPABILITIES.md) · [🧩 Modules](MODULES.md) · [📦 Ready-to-Use Bots](CATALOG.md)
-
-</div>
+[⚙️ Capabilities](CAPABILITIES.md) · [🧩 Modules](MODULES.md) · [💎 Service Catalog](CATALOG.md)
 
 ---
 
-<div align="center">
-
 ### ⚙️ Explore BOT ZAVOD
 
-[🏠 Home](README.md) · [⚙️ Capabilities](CAPABILITIES.md) · [🧩 Modules](MODULES.md) · [📦 Catalog](CATALOG.md) · [🎮 Portfolio](PORTFOLIO.md) · [📩 Order](ORDER.md)
-
-<br>
+[🏠 Home](README.md) · [⚙️ Capabilities](CAPABILITIES.md) · [🧩 Modules](MODULES.md) · [💎 Catalog](CATALOG.md) · [🎮 Portfolio](PORTFOLIO.md) · [📩 Order](ORDER.md)
 
 **BOT ZAVOD · Custom Discord Development · Interactive Systems · Automation**
 

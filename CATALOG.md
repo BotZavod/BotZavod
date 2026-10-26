@@ -1,24 +1,18 @@
 <div align="center">
 
-<h1>📦 BOT ZAVOD | Ready-to-Use Discord Bots</h1>
+<h1>⚙️ BOT ZAVOD | Custom Discord Bot Development</h1>
 
-<img src="assets/banners/04_catalog-banner.png" width="100%" alt="BOT ZAVOD — Ready-to-Use Discord Bots">
+<img src="assets/banners/04_catalog-banner.png" width="100%" alt="BOT ZAVOD | Discord Bot Development">
 
-<br>
+**CUSTOM DEVELOPMENT · INTERACTIVE UI · AUTOMATION**
 
-**READY-TO-USE DISCORD BOTS · PYTHON · AUTOMATION**
+### Индивидуальные Discord-боты под ваши задачи
 
-### Готовые решения для Discord-сообществ
-
-*Prebuilt Discord bots for gaming, moderation, support, music, and community management.*
-
-<br>
+*Custom Discord Bots · Unique Design · Interactive Systems*
 
 [🇷🇺 Русский](#русская-версия) · [🇬🇧 English](#english-version)
 
-<br>
-
-[🏠 Главная](README.md) · [⚙️ Возможности](CAPABILITIES.md) · [🧩 Модули](MODULES.md) · [💎 Разработка по ТЗ](CUSTOM-DEVELOPMENT.md) · [🎮 Портфолио](PORTFOLIO.md) · [📩 Заказ](ORDER.md)
+[🏠 Главная](README.md) · [⚙️ Возможности](CAPABILITIES.md) · [🧩 Модули](MODULES.md) · [💎 Разработка](CUSTOM-DEVELOPMENT.md) · [🎮 Портфолио](PORTFOLIO.md) · [📩 Заказ](ORDER.md)
 
 </div>
 
@@ -28,331 +22,247 @@
 
 <div align="center">
 
-## 🇷🇺 Русская версия
+## 🇷🇺 Каталог услуг BOT ZAVOD
 
-### 🏭 Каталог готовых Discord-ботов
+### 💎 Разработка Discord-ботов по техническому заданию
 
 </div>
 
-**BOT ZAVOD** предлагает готовые Discord-боты с заранее определённым набором функций.
+**BOT ZAVOD** создаёт Discord-ботов под индивидуальные задачи заказчиков.
 
-Это решения для тех, кому не требуется индивидуальная разработка с нуля. Можно выбрать подходящий продукт, получить предусмотренные файлы и настроить бота для своего Discord-сервера.
+Мы не ограничиваем проекты фиксированными наборами функций. Возможности, оформление, стоимость и сроки определяются после обсуждения технического задания.
 
-**Основные направления:**
-
-- 🛡️ Защита и модерация.
-- 🎫 Поддержка и обращения.
-- 🎮 Игровые возможности.
-- 🎵 Музыка и голосовые каналы.
-- 👑 Интерактивное управление сервером.
-- 🧩 Специализированные инструменты.
-
-> **Важно:** готовый бот не означает автоматически подключённый хостинг. Для запуска необходимы Discord-приложение, токен, подходящая среда выполнения и настройка зависимостей. Состав поставки определяется конкретным предложением.
+В зависимости от задачи можно заказать небольшого бота для автоматизации или комплексную систему с собственными интерактивными интерфейсами.
 
 ---
 
 <div align="center">
 
-## 🛡️ BASIC
+## 🚀 STANDARD DEVELOPMENT
 
-### Защита · Модерация · Логи · Автороль
+### Разработка небольших Discord-ботов
 
-*Базовая автоматизация Discord-сервера*
+**Простые задачи · Автоматизация · Удобное управление**
 
 </div>
 
-**BASIC** — компактный готовый бот для небольших Discord-сообществ, которым нужны основные инструменты безопасности и управления.
+Подходит для серверов, которым нужен бот с конкретным набором функций без избыточной сложности.
 
-### Возможности
+### Возможные задачи
 
-- **Anti-Nuke:** защита от массовых разрушительных действий.
-- **Модерация:** основные инструменты контроля участников.
-- **Логи:** журнал событий Discord-сервера.
-- **Автороль:** автоматическая выдача роли новым участникам.
-- **Настройка:** основные параметры работы бота.
+- 👋 Приветствие новых участников.
+- 🎭 Автоматическая выдача ролей.
+- 📢 Уведомления и объявления.
+- 🛡️ Базовая модерация.
+- 📋 Журналы действий.
+- 🎫 Простые тикеты и заявки.
+- 🎨 Сообщения с кнопками и меню.
+- ⚙️ Небольшие автоматизированные сценарии.
 
-### Кому подойдёт
+### Особенности
 
-- Новым Discord-серверам.
-- Небольшим игровым сообществам.
-- Проектам, которым нужна базовая автоматизация без сложной системы.
+- Разработка под конкретное ТЗ.
+- Только согласованные функции.
+- Понятная настройка и использование.
+- Возможность дальнейшего расширения.
+- Исходный код и инструкция в рамках заказа.
 
-**Формат поставки:** готовый Discord-бот с инструкцией по настройке.
+**Важно:** перечисленные функции являются примерами. Они не входят одновременно в каждый заказ.
+
+**[🚀 Обсудить небольшой проект](https://funpay.com/users/14765417/)**
 
 ---
 
 <div align="center">
 
-## 🎫 COMFORT
+## 👑 PREMIUM DEVELOPMENT
 
-### Защита · Модерация · Тикеты · Автороль
+### Индивидуальные Discord-системы
 
-*Управление сервером и поддержка участников*
+**Уникальный дизайн · Интерактивные панели · Комплексная автоматизация**
 
 </div>
 
-**COMFORT** расширяет возможности BASIC и добавляет систему обращений участников.
+Подходит для игровых сообществ, развивающихся Discord-серверов и проектов, которым необходима продуманная система управления.
 
-### Возможности
+### Возможные направления
 
-- Защита Discord-сервера от массовых разрушительных действий.
-- Инструменты модерации.
-- Журналирование событий.
-- Автоматическая выдача ролей.
-- Создание обращений через тикеты.
-- Обработка обращений администрацией.
-- Закрытие заявок.
+- 🎨 Индивидуальный дизайн интерфейсов.
+- 🧭 Единая интерактивная навигация.
+- ⚙️ Административные центры.
+- 👤 Профили и личные кабинеты участников.
+- 💰 Экономика, магазины и виртуальная валюта.
+- 🎮 Мини-игры, рейтинги и достижения.
+- 🛡️ Модерация, безопасность и верификация.
+- 🎫 Поддержка, заявки и обращения.
+- 🏆 Кланы и игровые сообщества.
+- 📊 Статистика и автоматические уведомления.
+- 🔗 Интеграции с внешними сервисами.
 
-### Кому подойдёт
+### Особенности
 
-- Сообществам с активной администрацией.
-- Серверам, где участникам требуется поддержка.
-- Игровым и тематическим проектам.
+- Индивидуальная архитектура проекта.
+- Согласованный визуальный стиль.
+- Интерактивные панели для участников и администрации.
+- Разработка взаимосвязанных модулей.
+- Проверка функциональности перед передачей.
+- Возможность дальнейшего развития системы.
 
-**Формат поставки:** готовый Discord-бот с системой поддержки.
+**Важно:** итоговый набор возможностей определяется техническим заданием. Не все перечисленные функции включаются в один проект.
+
+**[👑 Обсудить комплексный проект](https://funpay.com/users/14765417/)**
 
 ---
 
 <div align="center">
 
-## 🎮 ALL-IN-ONE
+## 🎨 Дизайн и интерактивные интерфейсы
 
-### Защита · Поддержка · Мини-игры · Роли
-
-*Универсальный бот для управления и развлечений*
+### Не только команды, но и удобное взаимодействие
 
 </div>
 
-**ALL-IN-ONE** объединяет административные инструменты, поддержку участников и игровые возможности.
+Одно из основных направлений BOT ZAVOD — создание Discord-систем с продуманным пользовательским интерфейсом.
 
-### Возможности
+В зависимости от проекта используются:
 
-- Anti-Nuke и модерация.
-- Журнал событий.
-- Автоматическая выдача ролей.
-- Система тикетов.
-- Мини-игры для участников.
-- Выдача ролей по реакциям.
-
-### Кому подойдёт
-
-- Игровым сообществам.
-- Развлекательным Discord-серверам.
-- Проектам, которым нужны несколько функций в одном боте.
-
-**Формат поставки:** готовый многофункциональный Discord-бот.
-
----
-
-<div align="center">
-
-## 🎵 PREMIUM MUSIC
-
-### Музыка · Радио · Автовойсы · Модерация
-
-*Музыкальная и голосовая система Discord-сервера*
-
-</div>
-
-**PREMIUM MUSIC** предназначен для Discord-сообществ, которым необходимы музыкальные и голосовые функции.
-
-### Возможности
-
-- Музыкальное воспроизведение.
-- Управление музыкальными функциями.
-- Интернет-радио.
-- Непрерывная работа радио при наличии подходящего хостинга.
-- Автоматические голосовые комнаты.
-- Инструменты модерации.
-
-### Кому подойдёт
-
-- Музыкальным сообществам.
-- Игровым серверам с активными голосовыми каналами.
-- Проектам с собственными радиокомнатами.
-
-**Формат поставки:** готовый Discord-бот с музыкальными и голосовыми возможностями.
-
-> Работа отдельных музыкальных источников зависит от их доступности и технических ограничений. Для круглосуточного воспроизведения необходим постоянно работающий хостинг.
-
----
-
-<div align="center">
-
-## 👑 NEXUS PREMIUM
-
-### Интерактивные панели · Админ-центр · Управление ролями
-
-*Комплексная система управления Discord-сообществом*
-
-</div>
-
-**NEXUS PREMIUM** — готовое решение с акцентом на интерактивные интерфейсы, удобную навигацию и административные инструменты.
-
-Вместо множества разрозненных команд основные действия организованы через панели и кнопки.
-
-### Возможности
-
-- Интерактивный административный центр.
-- Персональные панели участников.
-- Управление серверными функциями через кнопки.
-- Настройка и изменение ролей.
+- Интерактивные кнопки и меню.
 - Информационные панели.
-- Встроенные подсказки.
-- Единый согласованный стиль интерфейсов.
+- Формы для ввода данных.
+- Личные панели участников.
+- Административные интерфейсы.
 - Подтверждение важных действий.
+- Удобная навигация между разделами.
+- Единый стиль оформления.
 
-### Особенности интерфейса
+**Цель:** сделать взаимодействие с ботом понятным и удобным для участников и администрации.
 
-- Тёмная визуальная стилистика.
-- Компактные панели.
-- Удобная навигация.
-- Разделение административных и пользовательских действий.
-- Понятные элементы управления.
-
-### Кому подойдёт
-
-- Развивающимся Discord-сообществам.
-- Серверам с несколькими административными задачами.
-- Проектам, которым важны интерактивные интерфейсы.
-
-**Формат поставки:** готовая система управления Discord-сервером.
-
-> Точный перечень административных возможностей определяется комплектацией конкретного предложения.
+**[🎨 Подробнее о возможностях](CAPABILITIES.md)**
 
 ---
 
 <div align="center">
 
-## 🧩 Специализированные готовые боты
+## 🧩 Модули и направления разработки
 
-### Отдельные решения для конкретных задач
+### Выбирайте только необходимые возможности
 
 </div>
 
-Помимо основных продуктов, BOT ZAVOD предлагает специализированные Discord-боты.
-
-| Продукт | Основное назначение |
+| Направление | Примеры функциональности |
 |:---|:---|
-| 📈 **LEVELING** | Уровни, опыт и активность участников |
-| 🎉 **GIVEAWAY** | Организация розыгрышей |
-| 📝 **APPLICATION** | Приём и обработка заявок |
-| 📅 **EVENTS** | Мероприятия и напоминания |
-| 📊 **STATISTICS** | Статистика Discord-сервера |
-| ✅ **VERIFY** | Подтверждение участников |
-| 🪙 **ECONOMY** | Виртуальная экономика |
-| 🛡️ **CLAN** | Клановые функции |
+| 🛡️ Безопасность | Модерация, Anti-Nuke, логи |
+| 🎭 Участники | Автороли, верификация, профили |
+| 🎫 Поддержка | Тикеты, обращения, заявки |
+| 📈 Активность | Уровни, опыт, статистика |
+| 💰 Экономика | Баланс, магазины, награды |
+| 🎮 Игры | Мини-игры, рейтинги, события |
+| 🏆 Кланы | Участники, управление, достижения |
+| 🎵 Музыка | Музыкальные функции, радио, голосовые комнаты |
+| 📢 Сообщество | Опросы, объявления, уведомления |
+| ⚙️ Администрирование | Панели управления, настройки, автоматизация |
 
-### Преимущества специализированных решений
+Каждое направление может быть частью индивидуального проекта. Реализация зависит от согласованного ТЗ и технических возможностей.
 
-- Выполняют конкретную задачу.
-- Не требуют приобретения большого многофункционального бота.
-- Подходят для постепенного развития Discord-сервера.
-- Позволяют выбрать только необходимые инструменты.
-
-Комплектация каждого специализированного бота определяется его готовой версией и описанием предложения.
-
-**[🧩 Посмотреть идеи мини-ботов и модулей](MODULES.md)**
+**[🧩 Все направления и модули](MODULES.md)**
 
 ---
 
 <div align="center">
 
-## 📊 Сравнение основных продуктов
+## 🏭 Опыт разработки
 
-### Выберите подходящий набор возможностей
+### Ранее созданные решения BOT ZAVOD
 
 </div>
 
-| Возможность | BASIC | COMFORT | ALL-IN-ONE | PREMIUM MUSIC | NEXUS PREMIUM |
-|:---|:---:|:---:|:---:|:---:|:---:|
-| Модерация | ✓ | ✓ | ✓ | ✓ | * |
-| Anti-Nuke | ✓ | ✓ | ✓ | — | * |
-| Журнал событий | ✓ | ✓ | ✓ | — | * |
-| Автороль | ✓ | ✓ | ✓ | — | * |
-| Тикеты | — | ✓ | ✓ | — | * |
-| Мини-игры | — | — | ✓ | — | — |
-| Роли по реакциям | — | — | ✓ | — | — |
-| Музыка | — | — | — | ✓ | — |
-| Радио | — | — | — | ✓ | — |
-| Автоматические войсы | — | — | — | ✓ | — |
-| Интерактивный админ-центр | — | — | — | — | ✓ |
-| Панели участников | — | — | — | — | ✓ |
-| Управление ролями через панели | — | — | — | — | ✓ |
+В рамках предыдущих проектов были разработаны Discord-боты различного назначения.
 
-**Обозначения:**
+| Проект | Направление |
+|:---|:---|
+| **BASIC** | Защита, модерация, логи, автороли |
+| **COMFORT** | Модерация и поддержка участников |
+| **ALL-IN-ONE** | Администрирование и игровые возможности |
+| **PREMIUM MUSIC** | Музыка, радио и голосовые функции |
+| **NEXUS PREMIUM** | Интерактивное управление сервером |
+| **LEVELING** | Уровни и активность |
+| **GIVEAWAY** | Розыгрыши |
+| **APPLICATION** | Заявки и анкеты |
+| **EVENTS** | Мероприятия |
+| **STATISTICS** | Статистика |
+| **VERIFY** | Верификация |
+| **ECONOMY** | Экономика |
+| **CLAN** | Клановые функции |
 
-- **✓** — функция входит в описанную комплектацию.
-- **—** — функция не заявлена для данного продукта.
-- **\*** — наличие зависит от конкретной комплектации NEXUS PREMIUM.
+Эти разработки представлены как **примеры опыта и функциональных направлений**, а не как действующие предложения готовых ботов с автовыдачей.
 
-> Сравнение основано на заявленных возможностях продуктов. Актуальный состав каждого предложения следует проверять перед приобретением.
+Их отдельные идеи и механики могут быть использованы при проектировании новых индивидуальных решений.
 
 ---
 
 <div align="center">
 
-## 📁 Что получает покупатель
+## 🎮 GAME PLAY
 
-### Файлы · Инструкция · Настройка
+### Флагманский проект BOT ZAVOD
+
+**DOTA 2 · CS2 · RUST · PUBG**
 
 </div>
 
-В зависимости от выбранного продукта комплект может включать:
+GAME PLAY — авторский проект игрового Discord-сообщества с единым визуальным стилем и интерактивными интерфейсами.
 
-- ZIP-архив с файлами Discord-бота.
-- Исходный код.
-- Инструкцию по установке и запуску.
-- Информацию о необходимых зависимостях.
-- Описание основных настроек.
+В проекте предусмотрены профили участников, экономика, игровые механики, кланы, Steam-верификация, административные инструменты и другие возможности.
 
-### Что необходимо для запуска?
+Часть систем находится на стадии дальнейшей разработки и проверки.
 
-1. Создать собственное Discord-приложение.
-2. Получить токен бота.
-3. Установить подходящую версию Python и необходимые зависимости.
-4. Настроить параметры бота.
-5. Запустить его на компьютере или сервере.
-
-Для непрерывной работы необходима постоянно доступная среда выполнения, например VPS.
-
-**Точный состав поставки и требования к запуску определяются описанием выбранного предложения.**
+**[🎮 Репозиторий GAME PLAY](https://github.com/BotZavod/gameplay-discord) · [📸 Портфолио](PORTFOLIO.md)**
 
 ---
 
 <div align="center">
 
-## 🔧 Если готового бота недостаточно
+## 📩 Как заказать разработку
 
-### Разработаем решение под конкретную задачу
+### От идеи до готового проекта
 
 </div>
 
-Не каждому Discord-серверу подходит стандартная комплектация.
+**1. Обсуждение**  
+Вы описываете идею или отправляете техническое задание.
 
-В таком случае можно рассмотреть:
+**2. Планирование**  
+Определяем необходимые функции, интерфейсы и особенности проекта.
 
-- Разработку отдельного мини-бота.
-- Добавление функционального модуля.
-- Индивидуальную доработку существующего решения.
-- Создание нового Discord-бота по техническому заданию.
-- Разработку комплексной системы.
+**3. Согласование**  
+Фиксируем стоимость, сроки и объём работ до оплаты.
 
-**[🧩 Мини-боты и модули](MODULES.md)** · **[⚙️ Все возможности](CAPABILITIES.md)** · **[💎 Индивидуальная разработка](CUSTOM-DEVELOPMENT.md)**
+**4. Разработка**  
+Создаём и проверяем согласованные возможности.
 
----
+**5. Передача**  
+Передаём проект, исходный код, документацию и другие материалы согласно договорённости.
+
+### 📦 Что входит в заказ?
+
+Состав поставки определяется индивидуально и может включать:
+
+- Исходный код Discord-бота.
+- Необходимые файлы проекта.
+- Инструкцию по установке.
+- Помощь с первоначальным запуском.
+- Настройку согласованных функций.
+- Дополнительную поддержку по договорённости.
+
+**Хостинг и круглосуточная работа не включаются автоматически.**
 
 <div align="center">
 
-## 🛒 Где приобрести готового бота?
+### 🚀 Начните с обсуждения вашей идеи
 
-### BOT ZAVOD на FunPay
+**[🛒 Связаться через FunPay](https://funpay.com/users/14765417/)**
 
-Выберите подходящий продукт и ознакомьтесь с актуальным предложением.
-
-**[🛒 Открыть магазин BOT ZAVOD](https://funpay.com/users/14765417/)**
-
-**[📩 Как оформить заказ](ORDER.md)**
+**[📋 Подробный порядок заказа](ORDER.md)**
 
 </div>
 
@@ -362,319 +272,245 @@
 
 <div align="center">
 
-## 🇬🇧 English Version
+## 🇬🇧 BOT ZAVOD Service Catalog
 
-### 📦 Ready-to-Use Discord Bots
-
-*Prebuilt solutions for Discord communities*
+### 💎 Custom Discord Bot Development
 
 </div>
 
-**BOT ZAVOD** offers ready-to-use Discord bots with defined feature sets for moderation, support, gaming, music, and community management.
+**BOT ZAVOD** develops Discord bots tailored to each customer's requirements.
 
-Unlike custom development, these products are based on existing implementations.
+Projects are not limited to fixed feature packages. Functionality, design, pricing, and delivery timelines are agreed upon individually.
 
-Each purchase includes the files and setup materials specified in the selected product listing.
-
-> **Important:** a prebuilt bot still requires configuration, a Discord application, a bot token, dependencies, and a suitable runtime environment. Hosting is not automatically included.
+Choose between a focused automation bot and an advanced Discord system with custom interactive interfaces.
 
 ---
 
 <div align="center">
 
-## 🛡️ BASIC
+## 🚀 STANDARD DEVELOPMENT
 
-### Protection · Moderation · Logs · Autorole
+### Custom Bots for Specific Tasks
 
-*Essential server management*
+**Essential Features · Automation · Easy Management**
 
 </div>
 
-**BASIC** is a compact solution for smaller Discord communities.
+Suitable for Discord servers that need practical functionality without unnecessary complexity.
 
-**Features:**
+### Possible Features
 
-- Anti-Nuke protection.
-- Moderation tools.
-- Server event logging.
-- Automatic role assignment.
-- Basic configuration.
+- 👋 Welcome messages.
+- 🎭 Automatic role assignment.
+- 📢 Notifications and announcements.
+- 🛡️ Basic moderation.
+- 📋 Activity logs.
+- 🎫 Simple support tickets and applications.
+- 🎨 Interactive messages and menus.
+- ⚙️ Custom automation workflows.
 
-**Best for:**
+### Benefits
 
-- New Discord communities.
-- Small gaming servers.
-- Projects requiring essential automation.
+- Development based on your requirements.
+- Only the features you need.
+- Straightforward configuration.
+- Options for future expansion.
+- Source code and setup guidance as agreed.
 
-**Delivery format:** ready-to-use Discord bot with setup instructions.
+**Note:** These are examples, not a fixed package included with every order.
+
+**[🚀 Discuss Your Project](https://funpay.com/users/14765417/)**
 
 ---
 
 <div align="center">
 
-## 🎫 COMFORT
+## 👑 PREMIUM DEVELOPMENT
 
-### Protection · Moderation · Tickets · Autorole
+### Advanced Custom Discord Systems
 
-*Server management and member support*
+**Unique Design · Interactive Panels · Advanced Automation**
 
 </div>
 
-**COMFORT** expands the BASIC feature set with a support ticket system.
+Designed for gaming communities, growing Discord servers, and projects requiring integrated management systems.
 
-**Features:**
+### Possible Features
 
-- Anti-Nuke protection.
-- Moderation tools.
-- Event logging.
-- Automatic role assignment.
-- Support ticket creation.
-- Request management.
-- Ticket closure.
+- 🎨 Custom interface design.
+- 🧭 Unified interactive navigation.
+- ⚙️ Administration dashboards.
+- 👤 Member profiles.
+- 💰 Virtual economy and shops.
+- 🎮 Mini-games and leaderboards.
+- 🛡️ Moderation and verification.
+- 🎫 Support tickets and applications.
+- 🏆 Clan management.
+- 📊 Statistics and notifications.
+- 🔗 External service integrations.
 
-**Best for:**
+### Benefits
 
-- Communities with active staff.
-- Servers requiring member support.
-- Gaming and themed communities.
+- Custom project architecture.
+- Consistent visual identity.
+- Interactive member and staff panels.
+- Integrated functional modules.
+- Testing before delivery.
+- Opportunities for future development.
 
-**Delivery format:** ready-to-use Discord bot with support functionality.
+**Note:** Final functionality depends on the agreed project scope. Not every listed feature is included in a single order.
+
+**[👑 Discuss an Advanced Project](https://funpay.com/users/14765417/)**
 
 ---
 
 <div align="center">
 
-## 🎮 ALL-IN-ONE
+## 🎨 Interactive Design
 
-### Protection · Support · Mini-Games · Roles
-
-*Administration and entertainment in one bot*
+### Beyond Traditional Bot Commands
 
 </div>
 
-**ALL-IN-ONE** combines server management, member support, and entertainment features.
+BOT ZAVOD focuses on creating Discord systems with intuitive and consistent user interfaces.
 
-**Features:**
+Depending on the project, interfaces may include:
 
-- Anti-Nuke protection and moderation.
-- Server event logs.
-- Automatic roles.
-- Support tickets.
-- Discord mini-games.
-- Reaction roles.
-
-**Best for:**
-
-- Gaming communities.
-- Entertainment servers.
-- Projects requiring several systems in one bot.
-
-**Delivery format:** ready-to-use multifunctional Discord bot.
-
----
-
-<div align="center">
-
-## 🎵 PREMIUM MUSIC
-
-### Music · Radio · Auto Voice · Moderation
-
-*Music and voice management*
-
-</div>
-
-**PREMIUM MUSIC** focuses on music playback and voice channel functionality.
-
-**Features:**
-
-- Music playback.
-- Playback management.
-- Internet radio.
-- Continuous radio operation with suitable hosting.
-- Automatic voice rooms.
-- Moderation tools.
-
-**Best for:**
-
-- Music communities.
-- Gaming servers with active voice channels.
-- Discord projects with dedicated radio rooms.
-
-**Delivery format:** ready-to-use Discord bot with music and voice features.
-
-> Music source availability depends on technical and service restrictions. Continuous playback requires suitable always-on hosting.
-
----
-
-<div align="center">
-
-## 👑 NEXUS PREMIUM
-
-### Interactive Panels · Admin Center · Role Management
-
-*Interactive Discord community management*
-
-</div>
-
-**NEXUS PREMIUM** is a ready-to-use solution focused on convenient interactive panels, navigation, and administrative tools.
-
-**Features:**
-
-- Interactive administration center.
-- Member panels.
-- Button-based server management.
-- Role configuration and management.
+- Interactive buttons and menus.
 - Information panels.
-- Built-in guidance.
-- Consistent interface design.
-- Confirmation of important actions.
+- Input forms.
+- Member dashboards.
+- Administration centers.
+- Confirmation workflows.
+- Organized navigation.
+- Consistent visual styling.
 
-**Interface highlights:**
+**The goal:** make everyday server interactions easier for both members and administrators.
 
-- Dark visual style.
-- Compact navigation.
-- Organized user and administrative controls.
-- Clear interactive workflows.
-
-**Best for:**
-
-- Growing Discord communities.
-- Servers with multiple administrative tasks.
-- Projects that prioritize interactive interfaces.
-
-**Delivery format:** ready-to-use Discord management system.
-
-> Exact administrative features depend on the selected product package.
+**[🎨 Explore Capabilities](CAPABILITIES.md)**
 
 ---
 
 <div align="center">
 
-## 🧩 Specialized Ready-to-Use Bots
+## 🧩 Development Modules
 
-### Focused solutions for individual tasks
+### Build Around Your Requirements
 
 </div>
 
-| Product | Main Purpose |
+| Category | Example Features |
 |:---|:---|
-| 📈 **LEVELING** | Experience, levels, and member activity |
-| 🎉 **GIVEAWAY** | Giveaways and winner selection |
-| 📝 **APPLICATION** | Application forms and review |
-| 📅 **EVENTS** | Events and reminders |
-| 📊 **STATISTICS** | Discord server statistics |
-| ✅ **VERIFY** | Member verification |
-| 🪙 **ECONOMY** | Virtual economy |
-| 🛡️ **CLAN** | Clan management features |
+| 🛡️ Security | Moderation, Anti-Nuke, logs |
+| 🎭 Members | Autoroles, verification, profiles |
+| 🎫 Support | Tickets, requests, applications |
+| 📈 Activity | Levels, experience, statistics |
+| 💰 Economy | Balances, shops, rewards |
+| 🎮 Gaming | Mini-games, rankings, events |
+| 🏆 Clans | Member management, achievements |
+| 🎵 Music | Music features, radio, voice rooms |
+| 📢 Community | Polls, announcements, notifications |
+| ⚙️ Administration | Dashboards, configuration, automation |
 
-**Why choose a specialized bot?**
+Modules can be developed as part of a custom project, subject to agreed requirements and technical feasibility.
 
-- Focused functionality.
-- No need for a large multifunctional system.
-- Suitable for gradual server development.
-- Easier to select features for specific requirements.
-
-Each specialized product has its own defined feature set.
-
-**[🧩 Explore Mini Bots & Modules](MODULES.md)**
+**[🧩 Explore All Modules](MODULES.md)**
 
 ---
 
 <div align="center">
 
-## 📊 Main Product Comparison
+## 🏭 Development Experience
 
-### Compare available features
+### Previous BOT ZAVOD Projects
 
 </div>
 
-| Feature | BASIC | COMFORT | ALL-IN-ONE | PREMIUM MUSIC | NEXUS PREMIUM |
-|:---|:---:|:---:|:---:|:---:|:---:|
-| Moderation | ✓ | ✓ | ✓ | ✓ | * |
-| Anti-Nuke | ✓ | ✓ | ✓ | — | * |
-| Event Logs | ✓ | ✓ | ✓ | — | * |
-| Autorole | ✓ | ✓ | ✓ | — | * |
-| Tickets | — | ✓ | ✓ | — | * |
-| Mini-Games | — | — | ✓ | — | — |
-| Reaction Roles | — | — | ✓ | — | — |
-| Music | — | — | — | ✓ | — |
-| Radio | — | — | — | ✓ | — |
-| Auto Voice | — | — | — | ✓ | — |
-| Interactive Admin Center | — | — | — | — | ✓ |
-| Member Panels | — | — | — | — | ✓ |
-| Panel-Based Role Management | — | — | — | — | ✓ |
+BOT ZAVOD has developed Discord bots covering different community management needs.
 
-**Legend:**
+| Project | Focus |
+|:---|:---|
+| **BASIC** | Protection, moderation, logs, autoroles |
+| **COMFORT** | Moderation and member support |
+| **ALL-IN-ONE** | Administration and gaming |
+| **PREMIUM MUSIC** | Music, radio, voice features |
+| **NEXUS PREMIUM** | Interactive server management |
+| **LEVELING** | Levels and activity |
+| **GIVEAWAY** | Giveaways |
+| **APPLICATION** | Applications and forms |
+| **EVENTS** | Events |
+| **STATISTICS** | Statistics |
+| **VERIFY** | Verification |
+| **ECONOMY** | Virtual economy |
+| **CLAN** | Clan features |
 
-- **✓** — included in the described feature set.
-- **—** — not listed as an included feature.
-- **\*** — availability depends on the specific NEXUS PREMIUM package.
+These projects are shown as **examples of development experience**, not as currently available instant-delivery products.
 
-Product features should be verified against the current listing before purchase.
+Their concepts and functionality may serve as references for new custom projects.
 
 ---
 
 <div align="center">
 
-## 📁 Delivery & Setup
+## 🎮 Featured Project: GAME PLAY
 
-### Files · Instructions · Configuration
+**DOTA 2 · CS2 · RUST · PUBG**
 
 </div>
 
-Depending on the selected product, the package may include:
+GAME PLAY is a custom gaming Discord community featuring unified visual design and interactive interfaces.
 
-- ZIP archive.
-- Bot source files.
-- Setup and launch instructions.
-- Dependency information.
-- Configuration guidance.
+The project includes player profiles, economy features, gaming systems, clans, Steam verification, and administration tools.
 
-### Basic Setup
+Some components remain under development and validation.
 
-1. Create a Discord application.
-2. Obtain your own bot token.
-3. Install a compatible Python environment and dependencies.
-4. Configure the bot.
-5. Run it on your computer or server.
-
-For continuous operation, an always-available runtime such as a VPS is typically required.
-
-The exact delivery contents are defined in the selected product listing.
+**[🎮 GAME PLAY Repository](https://github.com/BotZavod/gameplay-discord) · [📸 Portfolio](PORTFOLIO.md)**
 
 ---
 
 <div align="center">
 
-## 🔧 Need Something Different?
+## 📩 How to Order
 
-### Custom solutions for specific requirements
+### From Your Idea to a Custom Discord Bot
 
 </div>
 
-If a prebuilt bot does not meet your needs, BOT ZAVOD can discuss:
+**1. Consultation**  
+Describe your idea or send your requirements.
 
-- Single-purpose mini bots.
-- Additional functional modules.
-- Modifications to existing solutions.
-- Fully custom Discord bots.
-- Complete Discord ecosystems.
+**2. Planning**  
+Define the features, interfaces, and project details.
 
-**[🧩 Mini Bots & Modules](MODULES.md)** · **[⚙️ Development Capabilities](CAPABILITIES.md)** · **[💎 Custom Development](CUSTOM-DEVELOPMENT.md)**
+**3. Agreement**  
+Confirm the scope, final price, and delivery timeline before payment.
 
----
+**4. Development**  
+Implementation and testing of the agreed functionality.
+
+**5. Delivery**  
+Receive the project and agreed documentation and materials.
+
+### 📦 Project Deliverables
+
+Depending on the agreement, delivery may include:
+
+- Bot source code.
+- Required project files.
+- Setup instructions.
+- Initial installation assistance.
+- Configuration of agreed features.
+- Additional support by arrangement.
+
+**Hosting and continuous 24/7 operation are not automatically included.**
 
 <div align="center">
 
-## 🛒 Browse Available Products
+### 🚀 Start Your Custom Project
 
-### BOT ZAVOD on FunPay
+**[🛒 Contact BOT ZAVOD on FunPay](https://funpay.com/users/14765417/)**
 
-Explore available ready-to-use Discord bots and check current product listings.
-
-**[🛒 Visit BOT ZAVOD on FunPay](https://funpay.com/users/14765417/)**
-
-**[📩 How to Order](ORDER.md)**
+**[📋 Ordering Guide](ORDER.md)**
 
 </div>
 
@@ -686,8 +522,6 @@ Explore available ready-to-use Discord bots and check current product listings.
 
 [🏠 Home](README.md) · [⚙️ Capabilities](CAPABILITIES.md) · [🧩 Modules](MODULES.md) · [💎 Custom Development](CUSTOM-DEVELOPMENT.md) · [🎮 Portfolio](PORTFOLIO.md) · [📩 Order](ORDER.md)
 
-<br>
-
-**BOT ZAVOD · Ready-to-Use Discord Bots · Python · Automation**
+**BOT ZAVOD · Custom Discord Bots · Interactive Systems · Automation**
 
 </div>
